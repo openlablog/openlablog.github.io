@@ -8,7 +8,7 @@ enableRobotsTXT = false
 disableHugoGeneratorInject = true
 hasCJKLanguage = true
 # canonifyURLs = true
-# uglyURLs = true
+uglyURLs = true
 disableKinds = ["sitemap", "RSS", "robotsTXT"]
 
 [pagination]
@@ -38,12 +38,12 @@ disableKinds = ["sitemap", "RSS", "robotsTXT"]
 
   [[menu.main]]
     name = "Works"
-    url = "/works/"
+    url = "/works.html"
     weight = 2
 
   [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "/about.html"
     weight = 3
 
   [[menu.main]]

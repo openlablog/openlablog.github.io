@@ -6,7 +6,7 @@
 	<div class="container wrapper">
 		{{ partial "head.html" . }}
 		{{ with .Content }}{{ . }}{{ end }}
-		<div class="recent-posts section">
+		{{/*  <div class="recent-posts section">
 			<div class="posts">
 				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
@@ -24,7 +24,7 @@
 				</div>
 				{{ end }}
 			</div>
-		</div>
+		</div>  */}}
 	</div>
 	{{ partial "footer.html" . }}
 </body>
