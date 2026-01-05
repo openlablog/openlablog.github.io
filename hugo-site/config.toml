@@ -33,7 +33,7 @@ disableKinds = ["sitemap", "RSS", "robotsTXT"]
 [menu]
   [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "/index.html"
     weight = 1
 
   [[menu.main]]
