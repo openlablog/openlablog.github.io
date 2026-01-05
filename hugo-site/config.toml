@@ -1,4 +1,4 @@
-baseURL = "/pages/"
+baseURL = "https://openlablog.github.io/"
 publishdir = "../"
 title = "OPENLABLOG"
 languageCode = "zh-cn"
@@ -7,7 +7,7 @@ defaultContentLanguage = "zh-cn"
 enableRobotsTXT = false
 disableHugoGeneratorInject = true
 hasCJKLanguage = true
-# canonifyURLs = true
+canonifyURLs = true
 uglyURLs = true
 disableKinds = ["sitemap", "RSS", "robotsTXT"]
 
@@ -33,7 +33,7 @@ disableKinds = ["sitemap", "RSS", "robotsTXT"]
 [menu]
   [[menu.main]]
     name = "Home"
-    url = "/index.html"
+    url = "/"
     weight = 1
 
   [[menu.main]]
