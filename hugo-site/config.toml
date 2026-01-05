@@ -1,0 +1,59 @@
+baseURL = "/pages/"
+publishdir = "../"
+title = "OPENLABLOG"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh-cn"
+
+enableRobotsTXT = false
+disableHugoGeneratorInject = true
+hasCJKLanguage = true
+# canonifyURLs = true
+# uglyURLs = true
+disableKinds = ["sitemap", "RSS", "robotsTXT"]
+
+[pagination]
+  disableAliases = true
+  pagerSize = 10
+  path = "page"
+
+[taxonomies]
+
+[params]
+	description = "我的一些小作品 [github.com/openlablog](https://github.com/openlablog)"
+
+[outputFormats.RSS]
+  mediatype = "application/rss"
+  baseName = "rss"
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.8
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Works"
+    url = "/works/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Github"
+    url = "https://github.com/openlablog"
+    weight = 4
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+	  

@@ -1,0 +1,10 @@
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{{ .Title }} - {{ .Site.Title }}</title>
+    <meta name="description" content="{{ if ne .Description "" }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+	<link rel="stylesheet" type="text/css" media="screen" href='{{ absURL "css/normalize.css" }}' />
+	<link rel="stylesheet" type="text/css" media="screen" href='{{ absURL "css/main.css" }}' />
+	<link rel="stylesheet" type="text/css" media="(prefers-color-scheme: dark)" href='{{ absURL "css/dark.css" }}' />
+	<link rel="stylesheet" href='{{ absURL "css/font-awesome.min.css" }}'>
+</head>
