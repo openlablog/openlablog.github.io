@@ -1,0 +1,14 @@
+{
+  "livePreview": false,
+  "showLineNumber": true,
+  "showInlineTitle": true,
+  "readableLineLength": false,
+  "defaultViewMode": "source",
+  "strictLineBreaks": true,
+  "propertiesInDocument": "source",
+  "foldHeading": true,
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "trashOption": "local"
+}
