@@ -156,7 +156,7 @@
       "hideSettingsButton": false,
       "allowResizing": true,
       "allowCollapsing": true,
-      "rightDefaultWidth": "20em",
+      "rightDefaultWidth": "0em",
       "leftDefaultWidth": "20em"
     },
     "customHeadOptions": {
@@ -166,8 +166,8 @@
       "alwaysEnabled": false,
       "hideSettingsButton": false,
       "featurePlacement": {
-        "selector": "body",
-        "type": "end"
+        "selector": "head",
+        "type": "start"
       },
       "sourcePath": "/home/cysell/Work/github_openlablog/openlablog.github.io/obsidian.openlablog.github.io/media/theme.html",
       "includePath": "site-lib/html/custom-head.html"
