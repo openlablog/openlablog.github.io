@@ -1,6 +1,6 @@
 ---
 created: 2026-01-08 17:46:25
-modified: 2026-01-14 17:22:16
+modified: 2026-01-15 01:45:05
 ---
 
 ## 先决条件
@@ -11,15 +11,15 @@ SMTP 服务仅适用于 Windows 服务器操作系统（例如 Windows Server 20
 
 SMTP 服务器功能的安装是通过服务器管理选项完成的：
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172117012.jpg)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014338714.jpg)
 
 这需要 IIS Web 服务器的附加服务器角色（例如 IIS 6 管理控制台和远程服务器管理工​​具）：
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172117031.png)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014338731.png)
 
 安装此功能后，请确保 SMTP 服务正在运行，并设置为以自动模式启动：
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172117098.jpg)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014338805.jpg)
 
 ## 接着需要做什么
 
@@ -36,25 +36,25 @@ SMTP 服务器功能的安装是通过服务器管理选项完成的：
 
 首先，右键单击“域”并选择“新建”->“域”。
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172117188.png)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014338898.png)
 
 **1.2 指定是远程域**
 
 选择远程作为域类型，然后单击下一步。
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172117230.png)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014338964.png)
 
 **1.3 相应地命名域**
 
 将此域命名为与您发送的通知的域相匹配，然后单击完成。
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172117280.png)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014338981.png)
 
 **1.4 为域设置更多选项**
 
 右键单击新创建的域并选择“属性”。
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172117340.png)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014339027.png)
 
 此 SMTP 服务器应该是有权发送电子邮件通知的服务器（确保启用“允许将传入邮件中继到此域”）。
 
@@ -62,11 +62,11 @@ SMTP 服务器功能的安装是通过服务器管理选项完成的：
 
 在属性窗口的“路由域”框中，选择“使用 DNS 路由到此域”。
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172117406.png)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014339060.png)
 
 根据需要向 SMTP 服务器提供的凭据，根据需要配置出站安全性。（此设置请看文章底部补充）
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172117467.png)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014339112.png)
 
 单击“确定”。
 
@@ -78,45 +78,45 @@ SMTP 服务器功能的安装是通过服务器管理选项完成的：
 
 您可以使用“开始”->“管理工具”->“Internet Information Services 6.0”选项启动它，或使用“服务器管理”选项。
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172117479.png)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014339144.png)
 
 **2.2. 配置 SMTP 服务器属性**
 
 要验证设置，请右键单击并选择属性：
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172117689.png)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014339197.png)
 
 检查以下配置：
 
 - 身份验证应该是匿名访问：
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172117732.png)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014339244.png)
 
 - 应仅允许来自本地服务器的连接（在本例中它是本地服务器，称为 localhost）（使用邮件客户端连接无须设置此项）
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172117778.png)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014339309.png)
 
 - 应仅允许来自本地服务器 (localhost) 的中继（使用邮件客户端连接无须设置此项）
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172117810.png)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014339327.png)
 
 - 对于“消息”选项，调整要配置的参数：允许限制消息大小（根据电子邮件附件放置的文件大小的允许和预期增量）、允许限制会话大小（与上一个参数类似，但用于对多封电子邮件进行分组）在同一活动中），将每个连接的消息数量限制为（与上一个参数类似，但在对多个电子邮件进行分组时限制消息数量，而不是使用文件大小作为标准），并限制每个连接的收件人数量消息至（设置同一电子邮件中的最大收件人数量）。
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172117922.png)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014339391.png)
 
 - 在传送设置下，指定具有匿名访问和 TLS 加密的出站安全选项：
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172117972.png)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014339407.png)
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172118037.png)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014339483.png)
 
 - 使用高级选项指定在 SMTP 服务器中创建的域。将智能主机留空。
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172118079.png)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014339550.png)
 
 最后，确保完成更改后服务仍处于启动模式：
 
-![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260114172118094.png)
+![](assets/Windows%20Server%20使用%20IIS%20作为%20SMTP%20服务器/file-20260115014339602.png)
 
 **现在可以通过邮件客户端或者本地 localhost 连接 SMTP 服务器啦！**
 

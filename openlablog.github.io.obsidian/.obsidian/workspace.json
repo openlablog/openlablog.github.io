@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "8b127d138b337252",
+        "id": "1c87f33d665feabb",
         "type": "tabs",
         "children": [
           {
-            "id": "1de00dc2318ed9f3",
+            "id": "7a1255077b93fd13",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "媒体营销/教育培训公司网络营销实战经验总结.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "教育培训公司网络营销实战经验总结"
             }
           }
         ]
@@ -90,12 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "媒体营销/教育培训公司网络营销实战经验总结.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "教育培训公司网络营销实战经验总结 的大纲"
             }
           },
           {
@@ -176,9 +191,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "媒体营销/教育培训公司网络营销实战经验总结.md"
+              },
               "icon": "lucide-info",
-              "title": "笔记属性"
+              "title": "教育培训公司网络营销实战经验总结的笔记属性"
             }
           }
         ]
@@ -195,12 +212,10 @@
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "webpage-html-export:导出为HTML": false,
-      "attachment-manager:切换附件文件夹的“显示/隐藏”": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "webpage-html-export:导出为HTML": false
     }
   },
-  "active": "1de00dc2318ed9f3",
+  "active": "7a1255077b93fd13",
   "lastOpenFiles": [
     "技术开发/yum安装mod_limitipconn模块限制客户端多线程下载.md",
     "技术开发/CentOS 6.X 配置防御ddos攻击（轻量级）.md",
@@ -222,32 +237,32 @@
     "精选短文/成功金句.md",
     "精选短文/人生最珍贵的六样东西.md",
     "精选短文/永远不晚.md",
-    "index.md",
     "人物故事/一个学医行医八年最终改行的人有话要说.md",
     "人物故事/三线城市青年手机第一屏：腾讯百度应用占比.md",
     "人物故事/周鸿祎演讲实录：传统行业玩法变了.md",
     "人物故事/一个至今没做出靠谱好产品的产品经理是这样活着的.md",
     "人物故事/35场面试，应届计算机毕业生的霸气求职之路.md",
-    "人物故事/assets/马化腾3小时秘密讲话泄露/file-20260114172115094.jpeg",
-    "人物故事/assets/马化腾3小时秘密讲话泄露/file-20260114172115047.jpeg",
-    "人物故事/assets/香飘飘：一杯奶茶如何卖到24亿元？/file-20260114172115957.png",
-    "人物故事/assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260114172116759.jpeg",
-    "人物故事/assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260114172116709.jpeg",
-    "人物故事/assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260114172116664.jpeg",
-    "人物故事/assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260114172116652.jpeg",
-    "人物故事/assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260114172116576.jpeg",
-    "人物故事/assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260114172116542.jpeg",
-    "人物故事/assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260114172116494.jpeg",
-    "人物故事/assets/马化腾3小时秘密讲话泄露",
-    "人物故事/assets/香飘飘：一杯奶茶如何卖到24亿元？",
-    "人物故事/assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程",
-    "人物故事/assets/谈谈身边的北漂互联网人，去留北京的因素",
-    "人物故事/assets/教育培训公司网络营销实战经验总结",
-    "人物故事/assets/我为什么回家：一位程序员老爸的宣言",
-    "人物故事/assets/我为什么回国 ---- 送给那些漂泊在海外的人",
-    "人物故事/assets/张小龙：走出孤独",
-    "人物故事/assets/公司上班这半年：从SEO变成站长",
-    "人物故事/assets/乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（四）",
+    "人物故事/1997年的乔布斯：先技术后产品，这个错误我犯得比在座各位都多.md",
+    "媒体营销/assets/教育培训公司网络营销实战经验总结",
+    "媒体营销/assets/中国式弱点营销——你我还都挺吃这一套/file-20260115014343880.jpg",
+    "媒体营销/assets/中国式弱点营销——你我还都挺吃这一套",
+    "媒体营销/assets/中国社交媒体统计数据和趋势/file-20260115014343809.jpg",
+    "媒体营销/assets/中国社交媒体统计数据和趋势",
+    "媒体营销/assets/移动互联网全球趋势数据【收藏版】/file-20260115014343674.jpg",
+    "媒体营销/assets/移动互联网全球趋势数据【收藏版】/file-20260115014343628.jpg",
+    "媒体营销/assets/移动互联网全球趋势数据【收藏版】/file-20260115014343581.jpg",
+    "媒体营销/assets/移动互联网全球趋势数据【收藏版】/file-20260115014343563.jpg",
+    "媒体营销/assets/移动互联网全球趋势数据【收藏版】/file-20260115014343493.jpg",
+    "媒体营销/assets/移动互联网全球趋势数据【收藏版】/file-20260115014343457.jpg",
+    "媒体营销/assets/移动互联网全球趋势数据【收藏版】/file-20260115014343397.jpg",
+    "媒体营销/assets/移动互联网全球趋势数据【收藏版】/file-20260115014343348.jpg",
+    "媒体营销/assets/移动互联网全球趋势数据【收藏版】",
+    "媒体营销/assets/手把手教你做企业网站数据库营销",
+    "媒体营销/assets/十大安卓应用商店推广渠道排行榜",
+    "媒体营销/assets/如何像举行派对一样打造社会化媒体战略",
+    "媒体营销/assets/内容营销五大基本法则",
+    "媒体营销/assets/经典的销售方案，做不做销售都收着",
+    "媒体营销/assets/将产品在移动应用市场中推向成功的十点建议",
     "未命名.canvas"
   ]
 }
