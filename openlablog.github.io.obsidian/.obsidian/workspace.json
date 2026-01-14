@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1692e2d9960e35d2",
+        "id": "5600cba2df9d2d9b",
         "type": "tabs",
         "children": [
           {
-            "id": "e8271a1a69004242",
+            "id": "f86cb84f43fc5afd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.运维/yum安装mod_limitipconn模块限制客户端多线程下载.md",
-                "mode": "preview",
-                "source": false
+                "file": "index.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
               },
               "icon": "lucide-file",
-              "title": "yum安装mod_limitipconn模块限制客户端多线程下载"
+              "title": "index"
             }
           }
         ]
@@ -78,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 372.5
   },
   "right": {
     "id": "c4e513cec1adc294",
@@ -94,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.运维/yum安装mod_limitipconn模块限制客户端多线程下载.md",
+                "file": "index.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "yum安装mod_limitipconn模块限制客户端多线程下载 的大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -152,7 +162,19 @@
             }
           },
           {
-            "id": "46df4ae6d7a76cbc",
+            "id": "d16c0fe0de6fdf0f",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "3.运维/Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          },
+          {
+            "id": "b737061b1fc29656",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -163,18 +185,6 @@
               },
               "icon": "lucide-archive",
               "title": "添加笔记属性"
-            }
-          },
-          {
-            "id": "d16c0fe0de6fdf0f",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {
-                "file": "3.运维/Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW.md"
-              },
-              "icon": "lucide-file-signature",
-              "title": "脚注"
             }
           }
         ]
@@ -194,23 +204,45 @@
       "webpage-html-export:导出为HTML": false
     }
   },
-  "active": "e8271a1a69004242",
+  "active": "f86cb84f43fc5afd",
   "lastOpenFiles": [
-    "作品.md",
+    "技术开发/yum安装mod_limitipconn模块限制客户端多线程下载.md",
+    "技术开发/CentOS 6.X 配置防御ddos攻击（轻量级）.md",
+    "技术开发/CentOS 6.X 安装DDoS-Deflate防御ddos攻击.md",
+    "技术开发/php获取网页301,302后的真实地址,支持多重跳转.md",
+    "技术开发/PHP 获取当前网址协议（各种服务器通用）.md",
+    "技术开发/JS字符串匹配所有网址（二级域名、多级域名）的正则表达式.md",
+    "技术开发/JS字符串匹配手机号码的正则表达式.md",
+    "技术开发/JS正则表达式限制输入数量和金额.md",
+    "技术开发/在安卓Android手机上安装Cloudflare Tunnel实现免费内网穿透.md",
+    "技术开发/Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW.md",
+    "精选短文/慈不带兵，义不养财.md",
+    "精选短文/欲望与能力的差距越小，人越快乐，内心越安稳。.md",
+    "精选短文/有些人他们活着，已经死了，可有些人死了，他们却活着。.md",
+    "精选短文/营销就是.md",
+    "精选短文/无论你的月收入多少，记得分成6份.md",
+    "精选短文/开公司须知.md",
+    "精选短文/华人首富李嘉诚说.md",
+    "精选短文/成功金句.md",
+    "精选短文/人生最珍贵的六样东西.md",
+    "精选短文/永远不晚.md",
+    "技术开发/Windows Server 使用 IIS 作为 SMTP 服务器.md",
+    "index.md",
+    "技术开发",
+    "互联网技术",
+    "未命名文件夹",
     "关于.md",
+    "作品.md",
     "3.运维/yum安装mod_limitipconn模块限制客户端多线程下载.md",
     "3.运维/CentOS 6.X 配置防御ddos攻击（轻量级）.md",
-    "3.运维/CentOS 6.X 安装DDoS-Deflate防御ddos攻击.md",
-    "2.后端/php获取网页301,302后的真实地址,支持多重跳转.md",
-    "2.后端/PHP 获取当前网址协议（各种服务器通用）.md",
-    "1.前端/JS字符串匹配所有网址（二级域名、多级域名）的正则表达式.md",
-    "1.前端/JS字符串匹配手机号码的正则表达式.md",
-    "1.前端/JS正则表达式限制输入数量和金额.md",
-    "index.md",
-    "3.运维/Windows Server 使用 IIS 作为 SMTP 服务器.md",
-    "3.运维/在安卓Android手机上安装Cloudflare Tunnel实现免费内网穿透.md",
-    "3.运维/Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW.md",
-    "未命名.md",
+    "未命名.base",
+    "未命名.canvas",
+    "site-lib/theme.html",
+    "Tomboy",
+    "效率时间",
+    "精选短文",
+    "效率时间/最省時間的時間管理方法：如何讓時間管理不浪費時間的技巧.note",
+    "效率时间/這 10 件事情，不如留到「零碎時間」再做更有效率！.note",
     "site-lib/media/up-f13019afd711eced900c6757cc2944b113b.jpg",
     "site-lib/media/up-e30b67d517a3fba3cb5f77f48040d98c8a4.png",
     "site-lib/media/up-d2b82df47f6e0a3d353a82eee0bc1fdafd8.png",
@@ -220,28 +252,6 @@
     "site-lib/media/up-ad7b8efb80e3071e74cec0f8996e23b3c66.png",
     "site-lib/media/up-93fa6bb49cec7b146e6658dd06af5d4a1d7.png",
     "site-lib/media/up-8ab77d380b84d311dc4e0f1d72090beaa11.png",
-    "site-lib/media/up-7e17c9e3a4ab4caeee4bc4ea86b7caa86b0.png",
-    "site-lib/media/theme.html",
-    "site-lib/media",
-    "site-lib",
-    "media/site-lib",
-    "未命名文件夹",
-    "作品.md.edtz",
-    "1.前端/JS正则表达式限制输入数量和金额.md.edtz",
-    "static/media",
-    "static",
-    "media/theme.html",
-    "pages/前端/JS字符串匹配手机号码的正则表达式.md",
-    "pages/后端/PHP 获取当前网址协议（各种服务器通用）.md",
-    "pages/运维/CentOS 6.X 安装DDoS-Deflate防御ddos攻击.md",
-    "pages/后端/php获取网页301,302后的真实地址,支持多重跳转.md",
-    "pages/前端/JS字符串匹配所有网址（二级域名、多级域名）的正则表达式.md",
-    "pages/前端/JS正则表达式限制输入数量和金额.md",
-    "pages/运维/Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW.md",
-    "pages/运维/在安卓Android手机上安装Cloudflare Tunnel实现免费内网穿透.md",
-    "pages/运维/CentOS 6.X 配置防御ddos攻击（轻量级）.md",
-    "pages/运维/yum安装mod_limitipconn模块限制客户端多线程下载.md",
-    "pages/运维/Windows Server 使用 IIS 作为 SMTP 服务器.md",
-    "未命名.canvas"
+    "site-lib/media/up-7e17c9e3a4ab4caeee4bc4ea86b7caa86b0.png"
   ]
 }

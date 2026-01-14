@@ -111,7 +111,7 @@
       },
       "displayTitle": "大纲",
       "startCollapsed": false,
-      "minCollapseDepth": 0
+      "minCollapseDepth": "100"
     },
     "themeToggleOptions": {
       "featureId": "theme-toggle",
@@ -167,9 +167,9 @@
       "hideSettingsButton": false,
       "featurePlacement": {
         "selector": "head",
-        "type": "start"
+        "type": "end"
       },
-      "sourcePath": "site-lib/media/theme.html",
+      "sourcePath": "site-lib/theme.html",
       "includePath": "site-lib/html/custom-head.html"
     },
     "documentOptions": {

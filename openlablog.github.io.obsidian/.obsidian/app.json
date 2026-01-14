@@ -1,5 +1,5 @@
 {
-  "livePreview": true,
+  "livePreview": false,
   "showLineNumber": true,
   "showInlineTitle": true,
   "readableLineLength": false,
@@ -10,6 +10,7 @@
   "vimMode": false,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "trashOption": "local",
-  "promptDelete": false
+  "trashOption": "system",
+  "promptDelete": false,
+  "tabSize": 4
 }

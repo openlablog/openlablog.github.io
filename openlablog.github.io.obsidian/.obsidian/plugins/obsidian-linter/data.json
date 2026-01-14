@@ -19,7 +19,7 @@
       "force-yaml-escape-keys": ""
     },
     "format-tags-in-yaml": {
-      "enabled": true
+      "enabled": false
     },
     "format-yaml-array": {
       "enabled": false,
@@ -67,7 +67,7 @@
       "date-modified-source-of-truth": "file system",
       "format": "YYYY-MM-DD HH:mm:ss",
       "convert-to-utc": false,
-      "update-on-file-contents-updated": "never"
+      "update-on-file-contents-updated": "after 5 seconds"
     },
     "yaml-title": {
       "enabled": false,
@@ -122,7 +122,7 @@
       "style": "space"
     },
     "convert-bullet-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "default-language-for-code-fences": {
       "enabled": false,
@@ -142,7 +142,7 @@
       "list-end-style": "."
     },
     "proper-ellipsis": {
-      "enabled": false
+      "enabled": true
     },
     "quote-style": {
       "enabled": false,
@@ -152,7 +152,7 @@
       "double-quote-style": "\"\""
     },
     "remove-consecutive-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "remove-empty-list-markers": {
       "enabled": true
@@ -164,8 +164,8 @@
       "enabled": true
     },
     "strong-style": {
-      "enabled": true,
-      "style": "consistent"
+      "enabled": false,
+      "style": "asterisk"
     },
     "two-spaces-between-lines-with-content": {
       "enabled": false,
@@ -173,7 +173,7 @@
     },
     "unordered-list-style": {
       "enabled": false,
-      "list-style": "consistent"
+      "list-style": "-"
     },
     "compact-yaml": {
       "enabled": true,
@@ -187,16 +187,16 @@
       "tabsize": 4
     },
     "empty-line-around-blockquotes": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-code-fences": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-horizontal-rules": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-math-blocks": {
-      "enabled": false
+      "enabled": true
     },
     "empty-line-around-tables": {
       "enabled": true
@@ -210,7 +210,7 @@
       "enabled": true
     },
     "move-math-block-indicators-to-their-own-line": {
-      "enabled": false
+      "enabled": true
     },
     "paragraph-blank-lines": {
       "enabled": true
@@ -229,12 +229,12 @@
       "other-symbols": ""
     },
     "remove-space-before-or-after-characters": {
-      "enabled": false,
+      "enabled": true,
       "characters-to-remove-space-before": ",!?;:).’”]",
       "characters-to-remove-space-after": "¿¡‘“(["
     },
     "space-after-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "space-between-chinese-japanese-or-korean-and-english-or-numbers": {
       "enabled": true,
@@ -249,13 +249,13 @@
       "enabled": true
     },
     "prevent-double-checklist-indicator-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "prevent-double-list-item-indicator-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "proper-ellipsis-on-paste": {
-      "enabled": false
+      "enabled": true
     },
     "remove-hyphens-on-paste": {
       "enabled": true
@@ -267,7 +267,7 @@
       "enabled": true
     },
     "remove-multiple-blank-lines-on-paste": {
-      "enabled": false
+      "enabled": true
     }
   },
   "lintOnSave": true,
@@ -287,6 +287,6 @@
     "tagArrayStyle": "single-line",
     "minimumNumberOfDollarSignsToBeAMathBlock": 2,
     "escapeCharacter": "\"",
-    "removeUnnecessaryEscapeCharsForMultiLineArrays": false
+    "removeUnnecessaryEscapeCharsForMultiLineArrays": true
   }
 }
