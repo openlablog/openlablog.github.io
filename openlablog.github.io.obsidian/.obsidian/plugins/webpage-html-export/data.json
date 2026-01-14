@@ -169,7 +169,7 @@
         "selector": "head",
         "type": "end"
       },
-      "sourcePath": "site-lib/theme.html",
+      "sourcePath": ".obsidian/theme.html",
       "includePath": "site-lib/html/custom-head.html"
     },
     "documentOptions": {

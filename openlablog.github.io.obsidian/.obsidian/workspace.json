@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5600cba2df9d2d9b",
+        "id": "8b127d138b337252",
         "type": "tabs",
         "children": [
           {
-            "id": "f86cb84f43fc5afd",
+            "id": "1de00dc2318ed9f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "新标签页"
             }
           }
         ]
@@ -88,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 538.5
   },
   "right": {
     "id": "c4e513cec1adc294",
@@ -104,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
-                "followCursor": true,
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -133,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.运维/Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -186,12 +170,22 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
+          },
+          {
+            "id": "a1533aacdca6c460",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "笔记属性"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 397.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,10 +195,12 @@
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "webpage-html-export:导出为HTML": false
+      "webpage-html-export:导出为HTML": false,
+      "attachment-manager:切换附件文件夹的“显示/隐藏”": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f86cb84f43fc5afd",
+  "active": "1de00dc2318ed9f3",
   "lastOpenFiles": [
     "技术开发/yum安装mod_limitipconn模块限制客户端多线程下载.md",
     "技术开发/CentOS 6.X 配置防御ddos攻击（轻量级）.md",
@@ -226,32 +222,32 @@
     "精选短文/成功金句.md",
     "精选短文/人生最珍贵的六样东西.md",
     "精选短文/永远不晚.md",
-    "技术开发/Windows Server 使用 IIS 作为 SMTP 服务器.md",
     "index.md",
-    "技术开发",
-    "互联网技术",
-    "未命名文件夹",
-    "关于.md",
-    "作品.md",
-    "3.运维/yum安装mod_limitipconn模块限制客户端多线程下载.md",
-    "3.运维/CentOS 6.X 配置防御ddos攻击（轻量级）.md",
-    "未命名.base",
-    "未命名.canvas",
-    "site-lib/theme.html",
-    "Tomboy",
-    "效率时间",
-    "精选短文",
-    "效率时间/最省時間的時間管理方法：如何讓時間管理不浪費時間的技巧.note",
-    "效率时间/這 10 件事情，不如留到「零碎時間」再做更有效率！.note",
-    "site-lib/media/up-f13019afd711eced900c6757cc2944b113b.jpg",
-    "site-lib/media/up-e30b67d517a3fba3cb5f77f48040d98c8a4.png",
-    "site-lib/media/up-d2b82df47f6e0a3d353a82eee0bc1fdafd8.png",
-    "site-lib/media/up-c580d9b81e9633ffab326181c5d784cf729.jpg",
-    "site-lib/media/up-c4318ed483f83bdf74a564b86be39411b87.png",
-    "site-lib/media/up-b93b79bfa299f6d900731e9bc798ee599c9.png",
-    "site-lib/media/up-ad7b8efb80e3071e74cec0f8996e23b3c66.png",
-    "site-lib/media/up-93fa6bb49cec7b146e6658dd06af5d4a1d7.png",
-    "site-lib/media/up-8ab77d380b84d311dc4e0f1d72090beaa11.png",
-    "site-lib/media/up-7e17c9e3a4ab4caeee4bc4ea86b7caa86b0.png"
+    "人物故事/一个学医行医八年最终改行的人有话要说.md",
+    "人物故事/三线城市青年手机第一屏：腾讯百度应用占比.md",
+    "人物故事/周鸿祎演讲实录：传统行业玩法变了.md",
+    "人物故事/一个至今没做出靠谱好产品的产品经理是这样活着的.md",
+    "人物故事/35场面试，应届计算机毕业生的霸气求职之路.md",
+    "人物故事/assets/马化腾3小时秘密讲话泄露/file-20260114172115094.jpeg",
+    "人物故事/assets/马化腾3小时秘密讲话泄露/file-20260114172115047.jpeg",
+    "人物故事/assets/香飘飘：一杯奶茶如何卖到24亿元？/file-20260114172115957.png",
+    "人物故事/assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260114172116759.jpeg",
+    "人物故事/assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260114172116709.jpeg",
+    "人物故事/assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260114172116664.jpeg",
+    "人物故事/assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260114172116652.jpeg",
+    "人物故事/assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260114172116576.jpeg",
+    "人物故事/assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260114172116542.jpeg",
+    "人物故事/assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260114172116494.jpeg",
+    "人物故事/assets/马化腾3小时秘密讲话泄露",
+    "人物故事/assets/香飘飘：一杯奶茶如何卖到24亿元？",
+    "人物故事/assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程",
+    "人物故事/assets/谈谈身边的北漂互联网人，去留北京的因素",
+    "人物故事/assets/教育培训公司网络营销实战经验总结",
+    "人物故事/assets/我为什么回家：一位程序员老爸的宣言",
+    "人物故事/assets/我为什么回国 ---- 送给那些漂泊在海外的人",
+    "人物故事/assets/张小龙：走出孤独",
+    "人物故事/assets/公司上班这半年：从SEO变成站长",
+    "人物故事/assets/乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（四）",
+    "未命名.canvas"
   ]
 }

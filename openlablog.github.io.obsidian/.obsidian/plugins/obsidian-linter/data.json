@@ -165,7 +165,7 @@
     },
     "strong-style": {
       "enabled": false,
-      "style": "asterisk"
+      "style": "consistent"
     },
     "two-spaces-between-lines-with-content": {
       "enabled": false,
@@ -173,7 +173,7 @@
     },
     "unordered-list-style": {
       "enabled": false,
-      "list-style": "-"
+      "list-style": "consistent"
     },
     "compact-yaml": {
       "enabled": true,
@@ -246,7 +246,7 @@
       "two-space-line-break": true
     },
     "add-blockquote-indentation-on-paste": {
-      "enabled": true
+      "enabled": false
     },
     "prevent-double-checklist-indicator-on-paste": {
       "enabled": true
