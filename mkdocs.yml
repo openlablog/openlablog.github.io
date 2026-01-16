@@ -6,14 +6,16 @@ use_directory_urls: false
 theme:
   name: material
   language: zh
+  features:
+    - navigation.top
+    - navigation.path
+    - navigation.footer
   palette:
-    # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
@@ -22,3 +24,5 @@ theme:
 markdown_extensions:
   - toc:
       permalink: true
+extra:
+  generator: false
