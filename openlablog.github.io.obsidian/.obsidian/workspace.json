@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb4d32b5a6eebeda",
+        "id": "a5039eef598f64ff",
         "type": "tabs",
         "children": [
           {
-            "id": "dea79467992976b5",
+            "id": "7c04c6e7ad5375e6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,12 +90,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "设计体验/十佳应用的故事(2) - 视觉设计与开发.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "十佳应用的故事(2) - 视觉设计与开发 的大纲"
             }
           },
           {
@@ -176,9 +177,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "设计体验/十佳应用的故事(2) - 视觉设计与开发.md"
+              },
               "icon": "lucide-info",
-              "title": "笔记属性"
+              "title": "十佳应用的故事(2) - 视觉设计与开发的笔记属性"
             }
           },
           {
@@ -207,11 +210,17 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "webpage-html-export:导出为HTML": false,
-      "broken-links:View broken links": false
+      "broken-links:View broken links": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "dea79467992976b5",
+  "active": "794fc37695b7a070",
   "lastOpenFiles": [
+    "设计体验/十佳应用的故事(1) - 想法、产品定义与交互设计.md",
+    "assets/十佳应用的故事(2) - 视觉设计与开发/file-23.2578 1.jpg.md",
+    "设计体验/十佳应用的故事(2) - 视觉设计与开发.md",
+    "assets/十佳应用的故事(2) - 视觉设计与开发",
+    "assets",
     "index.md",
     "人物故事/乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（二）.md",
     "empty files.md",
@@ -253,11 +262,6 @@
     "效率时间/七个人生工具：SWOT、PDCA、6W2H、SMART、WBS、时间管理、二八原则.md",
     "效率时间/【高效】提高工作效率三法.md",
     "效率时间/【高效】只要知道这8个真相就可使你更有效率.md",
-    "效率时间/【经验谈】1天=48小时？！.md",
-    "效率时间/【效率-战胜拖延】番茄工作法  简单易行的时间管理方法.md",
-    "效率时间/assets",
-    "效率时间/10 個真的可以被具體執行的時間管理技巧.md",
-    "效率时间",
     "未命名.canvas"
   ]
 }

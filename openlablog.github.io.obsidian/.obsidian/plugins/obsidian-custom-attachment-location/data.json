@@ -1,7 +1,7 @@
 {
   "attachmentFolderPath": "./assets/${noteFileName}",
   "attachmentRenameMode": "All",
-  "collectAttachmentUsedByMultipleNotesMode": "Copy",
+  "collectAttachmentUsedByMultipleNotesMode": "Prompt",
   "collectedAttachmentFileName": "",
   "convertImagesToJpegMode": "All images",
   "customTokensStr": "",
