@@ -1,0 +1,11 @@
+site_name: OPENLABLOG
+site_url: https://openlablog.github.io/
+docs_dir: ./openlablog.github.io.obsidian
+site_dir: ./site
+use_directory_urls: false
+theme:
+  name: material
+  language: zh
+markdown_extensions:
+  - toc:
+      permalink: true
