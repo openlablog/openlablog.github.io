@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "29a095c03317286d",
+        "id": "eb4d32b5a6eebeda",
         "type": "tabs",
         "children": [
           {
-            "id": "04051f4e4cf4d92b",
+            "id": "dea79467992976b5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人物故事/乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（二）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（二） 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -177,11 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "人物故事/乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（二）.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（二）的笔记属性"
+              "title": "笔记属性"
             }
           },
           {
@@ -213,13 +210,13 @@
       "broken-links:View broken links": false
     }
   },
-  "active": "794fc37695b7a070",
+  "active": "dea79467992976b5",
   "lastOpenFiles": [
+    "index.md",
+    "人物故事/乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（二）.md",
     "empty files.md",
     "《乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（一）》.md",
     "broken links output.md",
-    "人物故事/乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（二）.md",
-    "index.md",
     "效率时间/assets/這 10 件事情，不如留到「零碎時間」再做更有效率！/file-28.7295.jpg",
     "效率时间/assets/理解关键路径：怎样用红绿两色扣子推进项目的完成/file-31.6162.jpg",
     "效率时间/assets/现有的工作方式劳神费力，引进社交网络也非解决办法/file-73.8789.jpg",
