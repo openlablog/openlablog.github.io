@@ -1,9 +1,9 @@
 ---
 created: 2026-01-16 10:40:32
-modified: 2026-01-16 13:47:08
+modified: 2026-01-16 20:44:49
 ---
 
-![[assets/万维网发明人Tim Berners Lee谈“开放”（Open）的8重含义/file-20260116134451364.jpg]]
+![[assets/万维网发明人Tim Berners Lee谈“开放”（Open）的8重含义/file-22.7246.jpg]]
 
 昨天下午去参加了万维网发明人 [Tim Berners Lee](http://zh.wikipedia.org/wiki/%E8%92%82%E5%A7%86%C2%B7%E4%BC%AF%E7%BA%B3%E6%96%AF-%E6%9D%8E) 在北航做的一个讲座分享，主要谈了一下他对“开放”（Open）的看法，在分享中他谈到了 8 种开放含义，详细分享内容如下：
 

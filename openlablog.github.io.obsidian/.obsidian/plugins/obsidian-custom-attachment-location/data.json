@@ -11,7 +11,7 @@
   "emptyFolderBehavior": "DeleteWithEmptyParents",
   "excludePaths": [],
   "excludePathsFromAttachmentCollecting": [],
-  "generatedAttachmentFileName": "file-${date:{momentJsFormat:'YYYYMMDDHHmmssSSS'}}",
+  "generatedAttachmentFileName": "file-${attachmentFileSize:{unit:'KB',decimalPoints:4}}",
   "includePaths": [],
   "jpegQuality": 0.8,
   "markdownUrlFormat": "",

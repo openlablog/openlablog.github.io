@@ -1,6 +1,6 @@
 ---
 created: 2026-01-14 15:17:04
-modified: 2026-01-16 13:48:00
+modified: 2026-01-16 20:44:52
 ---
 
 Paper 很酷，之后发布的蓝牙触控笔 Pencil 更是酷劲十足。那么把两者结合起来如何做一件更酷的事情呢，来看看 startupnotes 的 Gregory Koberger 做的这本非常特别的 Paper 书。
@@ -9,7 +9,7 @@ Paper 很酷，之后发布的蓝牙触控笔 Pencil 更是酷劲十足。那么
 
 10 位嘉宾名单：
 
-![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260116134440806.png)
+![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-84.7510.png)
 
 Evernote 创始人 Phi Libin：
 
@@ -21,7 +21,7 @@ Evernote 创始人 Phi Libin：
 5. 不要有退出战略，要做一些自己不想卖的产品
 6. 在很早的时候积累一批创始合伙人
 
-![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260116134440832.jpeg)
+![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-107.2695.jpeg)
 
 Optimizely 创始人 Dan Siroker：
 
@@ -31,7 +31,7 @@ Optimizely 创始人 Dan Siroker：
 4. 企业家撰写这个算法，所有人执行
 5. 在透明的市场，很难确定优先级
 
-![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260116134440924.jpeg)
+![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-89.9941.jpeg)
 
 硅谷天使投资人 Ron Conway：
 
@@ -44,14 +44,14 @@ Optimizely 创始人 Dan Siroker：
 7. 要从代码向设计转型
 8. 社交产品改变的是人们沟通的方式
 
-![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260116134440954.jpeg)
+![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-108.8223.jpeg)
 
 Andreessen Horowitz 合伙人 Chris Dixon：
 
 1. 好的想法和看起来不那么靠谱的想法的交集是最佳点
 2. 你需要有一个秘密，也就是那些只有你知道而其它大多数人都不知道的东西
 
-![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260116134440980.jpeg)
+![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-94.5742.jpeg)
 
 VMWare CEO Diane Green：
 
@@ -59,14 +59,14 @@ VMWare CEO Diane Green：
 
 2. 让人们的生活变得更简单
 
-![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260116134440998.jpeg)
+![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-99.7793.jpeg)
 
 Counsyl 创始人 Balaji Srinivasan：
 
 1. 尝试时刻保持与众不同
 2. 硅谷正在重塑所有行业
 
-![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260116134441020.jpeg)
+![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-79.1826.jpeg)
 
 Watsi 创始人 Chase Adam：
 
@@ -75,7 +75,7 @@ Watsi 创始人 Chase Adam：
 2. 找一些你关注度强过自己的事情做
 3. 让世界更小就是让世界更好
 
-![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260116134441049.jpeg)
+![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-103.6328.jpeg)
 
 Twitter, Square 创始人 Jack Dorsey：
 
@@ -87,9 +87,9 @@ Twitter, Square 创始人 Jack Dorsey：
 6. 每一个细节都很重要
 7. 每天建立一个 Dos 和 Dont 清单并每日检查，会帮助你理清什么最重要
 
-![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260116134441079.jpeg)
+![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-86.5234.jpeg)
 
-![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260116134441103.jpeg)
+![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-29.1318.jpeg)
 
 Facebook CEO Mark Zuckerberg：
 
@@ -99,7 +99,7 @@ Facebook CEO Mark Zuckerberg：
 4. 我做我想要的东西
 5. 当一个问题出现时，先锁定它，直到它再次出现
 
-![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260116134441126.jpeg)
+![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-95.7344.jpeg)
 
 Airbnb 创始人 Nathan Blecharczyk：
 
@@ -108,10 +108,10 @@ Airbnb 创始人 Nathan Blecharczyk：
 3. 最重要的事情：选择你的合作伙伴
 4. 在你放弃前，请为它付出 100% 努力
 
-![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260116134441158.jpeg)
+![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-107.3975.jpeg)
 
 致谢：
 
-![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-20260116134441179.jpeg)
+![](assets/这本Paper书酷毙了，来看看10位牛人的一页Paper课程/file-53.9443.jpeg)
 
 是不是很有意思呢？把这个有趣的课程分享出去吧！

@@ -1,9 +1,9 @@
 ---
 created: 2026-01-16 10:40:32
-modified: 2026-01-16 13:47:19
+modified: 2026-01-16 20:44:47
 ---
 
-![[assets/工作流软件如何成为未来web的支柱/file-20260116134449705.jpg]]
+![[assets/工作流软件如何成为未来web的支柱/file-63.4912.jpg]]
 
 > 此文作者是 Kevin  
 > Lindquist，工作流平台 [Decisions](http://decisions.com/) 的营销负责人，原文发表于 [VB](http://venturebeat.com/2013/08/23/workflow-software-future/) 上。

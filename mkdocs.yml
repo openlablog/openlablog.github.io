@@ -11,6 +11,8 @@ theme:
     - navigation.path
     - navigation.footer
   palette:
+    - primary: teal
+    - accent: green
     - media: "(prefers-color-scheme: light)"
       scheme: default 
       toggle:

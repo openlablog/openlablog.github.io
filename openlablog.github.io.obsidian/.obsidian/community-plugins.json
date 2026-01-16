@@ -1,8 +1,8 @@
 [
   "obsidian-linter",
   "editing-toolbar",
-  "webpage-html-export",
   "obsidian-custom-attachment-location",
   "file-explorer-note-count",
-  "oz-clear-unused-images"
+  "oz-clear-unused-images",
+  "broken-links"
 ]
