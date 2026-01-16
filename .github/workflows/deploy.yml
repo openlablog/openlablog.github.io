@@ -1,41 +1,29 @@
-# 工作流名称
-name: 自动部署 MkDocs
-
-# 触发条件：推送到 main 分支
+name: deploy 
 on:
   push:
     branches:
+      - master 
       - main
-  workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: 检出仓库
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: 设置 Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: 安装依赖
+      - uses: actions/checkout@v4
+      - name: Configure Git Credentials
         run: |
-          pip install mkdocs-material
-          pip install mkdocs-awesome-pages-plugin
-          pip install mkdocs-git-revision-date-localized-plugin
-
-      - name: 构建网站
-        run: mkdocs build --clean
-
-      - name: 部署到 GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+      - uses: actions/setup-python@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
+          python-version: 3.x
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - uses: actions/cache@v4
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: ~/.cache 
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install mkdocs-material 
+      - run: mkdocs gh-deploy --force
