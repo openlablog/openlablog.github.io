@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eb733835ca74077e",
+        "id": "5e9a1269cd3e91e1",
         "type": "tabs",
         "children": [
           {
-            "id": "91069b11a4e0a775",
+            "id": "6eec701b28fe3f98",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -195,11 +195,10 @@
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "webpage-html-export:导出为HTML": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "webpage-html-export:导出为HTML": false
     }
   },
-  "active": "91069b11a4e0a775",
+  "active": "6eec701b28fe3f98",
   "lastOpenFiles": [
     "技术开发/yum安装mod_limitipconn模块限制客户端多线程下载.md",
     "技术开发/CentOS 6.X 配置防御ddos攻击（轻量级）.md",
@@ -228,23 +227,23 @@
     "人物故事/德鲁克终生难忘的7堂课.md",
     "人物故事/丁香园冯大辉：我的十年莽撞 IT 路.md",
     "未命名文件夹",
-    "思想理念/assets/SoLoMo和O2O之辩/file-20260116122429311.jpg",
+    "思想理念/assets/SoLoMo和O2O之辩/file-20260116134452499.jpg",
     "思想理念/assets/SoLoMo和O2O之辩",
-    "思想理念/assets/Google的创新九原则/file-20260116122429216.jpg",
+    "思想理念/assets/Google的创新九原则/file-20260116134452465.jpg",
     "思想理念/assets/Google的创新九原则",
-    "思想理念/assets/中国互联网真相：精英与草根/file-20260116122428302.jpg",
+    "思想理念/assets/中国互联网真相：精英与草根/file-20260116134452064.jpg",
     "思想理念/assets/中国互联网真相：精英与草根",
-    "思想理念/assets/怎么选老板/file-20260116122428184.jpg",
+    "思想理念/assets/怎么选老板/file-20260116134452013.jpg",
     "思想理念/assets/怎么选老板",
-    "思想理念/assets/用互联网思维推动商业发展/file-20260116122428086.jpg",
+    "思想理念/assets/用互联网思维推动商业发展/file-20260116134451946.jpg",
     "思想理念/assets/用互联网思维推动商业发展",
-    "思想理念/assets/医疗消费者的改变给医疗营销带来的思考/file-20260116122427996.jpg",
-    "思想理念/assets/医疗消费者的改变给医疗营销带来的思考/file-20260116122427912.jpg",
+    "思想理念/assets/医疗消费者的改变给医疗营销带来的思考/file-20260116134451897.jpg",
+    "思想理念/assets/医疗消费者的改变给医疗营销带来的思考/file-20260116134451869.jpg",
     "思想理念/assets/医疗消费者的改变给医疗营销带来的思考",
-    "思想理念/assets/行当下路思三年途  素老胡 huxingyu/file-20260116122427806.jpg",
+    "思想理念/assets/行当下路思三年途  素老胡 huxingyu/file-20260116134451809.jpg",
     "思想理念/assets/行当下路思三年途  素老胡 huxingyu",
-    "思想理念/assets/详细解读中国电商企业的定位/file-20260116122427700.jpg",
-    "思想理念/assets/详细解读中国电商企业的定位/file-20260116122427606.jpg",
+    "思想理念/assets/详细解读中国电商企业的定位/file-20260116134451772.jpg",
+    "思想理念/assets/详细解读中国电商企业的定位/file-20260116134451754.jpg",
     "思想理念/assets/详细解读中国电商企业的定位",
     "思想理念/assets/網路興起帶來的「人才微笑曲線」",
     "未命名.canvas"

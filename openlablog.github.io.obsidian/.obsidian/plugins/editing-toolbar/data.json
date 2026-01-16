@@ -449,8 +449,8 @@
       "aestheticStyle": "default"
     }
   },
-  "toolbarBackgroundColor": "#F5F8FA",
-  "toolbarIconColor": "#4A5568",
+  "toolbarBackgroundColor": "rgba(var(--background-secondary-rgb), 0.7)",
+  "toolbarIconColor": "var(--text-normal)",
   "toolbarIconSize": 18,
   "useCurrentLineForRegex": false
 }
