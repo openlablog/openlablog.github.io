@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1c87f33d665feabb",
+        "id": "eb733835ca74077e",
         "type": "tabs",
         "children": [
           {
-            "id": "7a1255077b93fd13",
+            "id": "91069b11a4e0a775",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "媒体营销/教育培训公司网络营销实战经验总结.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "教育培训公司网络营销实战经验总结"
+              "title": "新标签页"
             }
           }
         ]
@@ -88,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 538.5
+    "width": 456.5
   },
   "right": {
     "id": "c4e513cec1adc294",
@@ -104,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "媒体营销/教育培训公司网络营销实战经验总结.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "教育培训公司网络营销实战经验总结 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -191,18 +176,16 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "媒体营销/教育培训公司网络营销实战经验总结.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "教育培训公司网络营销实战经验总结的笔记属性"
+              "title": "笔记属性"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,14 +195,14 @@
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "webpage-html-export:导出为HTML": false
+      "webpage-html-export:导出为HTML": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "7a1255077b93fd13",
+  "active": "91069b11a4e0a775",
   "lastOpenFiles": [
     "技术开发/yum安装mod_limitipconn模块限制客户端多线程下载.md",
     "技术开发/CentOS 6.X 配置防御ddos攻击（轻量级）.md",
-    "技术开发/CentOS 6.X 安装DDoS-Deflate防御ddos攻击.md",
     "技术开发/php获取网页301,302后的真实地址,支持多重跳转.md",
     "技术开发/PHP 获取当前网址协议（各种服务器通用）.md",
     "技术开发/JS字符串匹配所有网址（二级域名、多级域名）的正则表达式.md",
@@ -237,32 +220,33 @@
     "精选短文/成功金句.md",
     "精选短文/人生最珍贵的六样东西.md",
     "精选短文/永远不晚.md",
-    "人物故事/一个学医行医八年最终改行的人有话要说.md",
     "人物故事/三线城市青年手机第一屏：腾讯百度应用占比.md",
     "人物故事/周鸿祎演讲实录：传统行业玩法变了.md",
     "人物故事/一个至今没做出靠谱好产品的产品经理是这样活着的.md",
     "人物故事/35场面试，应届计算机毕业生的霸气求职之路.md",
     "人物故事/1997年的乔布斯：先技术后产品，这个错误我犯得比在座各位都多.md",
-    "媒体营销/assets/教育培训公司网络营销实战经验总结",
-    "媒体营销/assets/中国式弱点营销——你我还都挺吃这一套/file-20260115014343880.jpg",
-    "媒体营销/assets/中国式弱点营销——你我还都挺吃这一套",
-    "媒体营销/assets/中国社交媒体统计数据和趋势/file-20260115014343809.jpg",
-    "媒体营销/assets/中国社交媒体统计数据和趋势",
-    "媒体营销/assets/移动互联网全球趋势数据【收藏版】/file-20260115014343674.jpg",
-    "媒体营销/assets/移动互联网全球趋势数据【收藏版】/file-20260115014343628.jpg",
-    "媒体营销/assets/移动互联网全球趋势数据【收藏版】/file-20260115014343581.jpg",
-    "媒体营销/assets/移动互联网全球趋势数据【收藏版】/file-20260115014343563.jpg",
-    "媒体营销/assets/移动互联网全球趋势数据【收藏版】/file-20260115014343493.jpg",
-    "媒体营销/assets/移动互联网全球趋势数据【收藏版】/file-20260115014343457.jpg",
-    "媒体营销/assets/移动互联网全球趋势数据【收藏版】/file-20260115014343397.jpg",
-    "媒体营销/assets/移动互联网全球趋势数据【收藏版】/file-20260115014343348.jpg",
-    "媒体营销/assets/移动互联网全球趋势数据【收藏版】",
-    "媒体营销/assets/手把手教你做企业网站数据库营销",
-    "媒体营销/assets/十大安卓应用商店推广渠道排行榜",
-    "媒体营销/assets/如何像举行派对一样打造社会化媒体战略",
-    "媒体营销/assets/内容营销五大基本法则",
-    "媒体营销/assets/经典的销售方案，做不做销售都收着",
-    "媒体营销/assets/将产品在移动应用市场中推向成功的十点建议",
+    "人物故事/德鲁克终生难忘的7堂课.md",
+    "人物故事/丁香园冯大辉：我的十年莽撞 IT 路.md",
+    "未命名文件夹",
+    "思想理念/assets/SoLoMo和O2O之辩/file-20260116122429311.jpg",
+    "思想理念/assets/SoLoMo和O2O之辩",
+    "思想理念/assets/Google的创新九原则/file-20260116122429216.jpg",
+    "思想理念/assets/Google的创新九原则",
+    "思想理念/assets/中国互联网真相：精英与草根/file-20260116122428302.jpg",
+    "思想理念/assets/中国互联网真相：精英与草根",
+    "思想理念/assets/怎么选老板/file-20260116122428184.jpg",
+    "思想理念/assets/怎么选老板",
+    "思想理念/assets/用互联网思维推动商业发展/file-20260116122428086.jpg",
+    "思想理念/assets/用互联网思维推动商业发展",
+    "思想理念/assets/医疗消费者的改变给医疗营销带来的思考/file-20260116122427996.jpg",
+    "思想理念/assets/医疗消费者的改变给医疗营销带来的思考/file-20260116122427912.jpg",
+    "思想理念/assets/医疗消费者的改变给医疗营销带来的思考",
+    "思想理念/assets/行当下路思三年途  素老胡 huxingyu/file-20260116122427806.jpg",
+    "思想理念/assets/行当下路思三年途  素老胡 huxingyu",
+    "思想理念/assets/详细解读中国电商企业的定位/file-20260116122427700.jpg",
+    "思想理念/assets/详细解读中国电商企业的定位/file-20260116122427606.jpg",
+    "思想理念/assets/详细解读中国电商企业的定位",
+    "思想理念/assets/網路興起帶來的「人才微笑曲線」",
     "未命名.canvas"
   ]
 }

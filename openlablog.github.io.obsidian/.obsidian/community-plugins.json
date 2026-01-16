@@ -2,5 +2,7 @@
   "obsidian-linter",
   "editing-toolbar",
   "webpage-html-export",
-  "obsidian-custom-attachment-location"
+  "obsidian-custom-attachment-location",
+  "file-explorer-note-count",
+  "oz-clear-unused-images"
 ]
