@@ -1,9 +1,9 @@
 ---
 created: 2026-01-16 10:40:32
-modified: 2026-01-16 20:44:50
+modified: 2026-01-16 22:28:41
 ---
 
-![[assets/SoLoMo和O2O之辩/file-15.7578.jpg]]
+![](assets/SoLoMo和O2O之辩/file-15.7578.jpg)
 
 编者按：[本文](http://preangel.net/2012/07/21/solomo/) 作者@王利杰 leo，文章写于其京沪高铁反沪途中。
 

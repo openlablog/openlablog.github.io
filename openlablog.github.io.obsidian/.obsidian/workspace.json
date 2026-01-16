@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a5039eef598f64ff",
+        "id": "dd270615b178c05e",
         "type": "tabs",
         "children": [
           {
-            "id": "7c04c6e7ad5375e6",
+            "id": "5be6f3d72d6a29a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "index"
             }
           }
         ]
@@ -90,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "设计体验/十佳应用的故事(2) - 视觉设计与开发.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "十佳应用的故事(2) - 视觉设计与开发 的大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -119,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "index 的反向链接列表"
             }
           },
           {
@@ -178,10 +193,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "设计体验/十佳应用的故事(2) - 视觉设计与开发.md"
+                "file": "技术开发/Windows Server 使用 IIS 作为 SMTP 服务器.md"
               },
               "icon": "lucide-info",
-              "title": "十佳应用的故事(2) - 视觉设计与开发的笔记属性"
+              "title": "Windows Server 使用 IIS 作为 SMTP 服务器的笔记属性"
             }
           },
           {
@@ -199,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,59 +224,57 @@
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "webpage-html-export:导出为HTML": false,
-      "broken-links:View broken links": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "broken-links:View broken links": false
     }
   },
-  "active": "794fc37695b7a070",
+  "active": "5be6f3d72d6a29a1",
   "lastOpenFiles": [
+    "设计体验/易用性与转化率的提升 - 打造良好UI的32条建议.md",
+    "设计体验/掌控大脑 - 怎样使产品体验更加符合用户心理及行为规律.md",
+    "设计体验/指尖上的浏览：如何理解用户的眼？.md",
+    "设计体验/怎样知道你的网站是不是弱爆了.md",
+    "设计体验/用户体验测试方法——AB 测试.md",
+    "设计体验/艺术思维：伟大创新的来源.md",
+    "效率时间/【效率-战胜拖延】番茄工作法  简单易行的时间管理方法.md",
+    "设计体验/assets/艺术思维：伟大创新的来源/file-21.6045.jpg",
+    "assets/file-21.6045.jpg.md",
+    "assets",
+    "设计体验/assets/用户体验测试方法——AB 测试/file-10.2119.jpg",
+    "设计体验/assets/易用性与转化率的提升 - 打造良好UI的32条建议/file-37.5879.jpg",
+    "设计体验/assets/易用性与转化率的提升 - 打造良好UI的32条建议/file-31.3301.jpg",
+    "设计体验/assets/易用性与转化率的提升 - 打造良好UI的32条建议/file-30.6426.jpg",
+    "设计体验/assets/易用性与转化率的提升 - 打造良好UI的32条建议/file-29.4980.jpg",
+    "设计体验/assets/易用性与转化率的提升 - 打造良好UI的32条建议/file-28.7695.jpg",
+    "设计体验/assets/易用性与转化率的提升 - 打造良好UI的32条建议/file-28.6201.jpg",
+    "设计体验/assets/易用性与转化率的提升 - 打造良好UI的32条建议/file-28.3174.jpg",
+    "设计体验/assets/易用性与转化率的提升 - 打造良好UI的32条建议/file-27.2998.jpg",
+    "效率时间/【高效】只要知道这8个真相就可使你更有效率.md",
+    "人物故事/乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（二）.md",
+    "人物故事/乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（三）.md",
+    "人物故事/乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（四）.md",
+    "人物故事/乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（五）.md",
+    "人物故事/乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（一）.md",
+    "技术开发/Windows Server 使用 IIS 作为 SMTP 服务器.md",
+    "技术开发/php获取网页301,302后的真实地址,支持多重跳转.md",
+    "效率时间/【经验谈】1天=48小时？！.md",
+    "技术开发/JS正则表达式限制输入数量和金额.md",
+    "技术开发/Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW.md",
+    "技术开发/assets/JS正则表达式限制输入数量和金额",
+    "技术开发/assets/Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW",
+    "技术开发/在安卓Android手机上安装Cloudflare Tunnel实现免费内网穿透.md",
+    "技术开发/assets/在安卓Android手机上安装Cloudflare Tunnel实现免费内网穿透",
+    "设计体验/十佳应用的故事(2) - 视觉设计与开发.md",
     "设计体验/十佳应用的故事(1) - 想法、产品定义与交互设计.md",
     "assets/十佳应用的故事(2) - 视觉设计与开发/file-23.2578 1.jpg.md",
-    "设计体验/十佳应用的故事(2) - 视觉设计与开发.md",
     "assets/十佳应用的故事(2) - 视觉设计与开发",
-    "assets",
     "index.md",
-    "人物故事/乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（二）.md",
     "empty files.md",
     "《乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（一）》.md",
-    "broken links output.md",
-    "效率时间/assets/這 10 件事情，不如留到「零碎時間」再做更有效率！/file-28.7295.jpg",
-    "效率时间/assets/理解关键路径：怎样用红绿两色扣子推进项目的完成/file-31.6162.jpg",
-    "效率时间/assets/现有的工作方式劳神费力，引进社交网络也非解决办法/file-73.8789.jpg",
-    "效率时间/assets/现有的工作方式劳神费力，引进社交网络也非解决办法/file-44.4775.jpg",
-    "效率时间/assets/最省時間的時間管理方法：如何讓時間管理不浪費時間的技巧/file-4.3701.jpg",
-    "效率时间/assets/最省時間的時間管理方法：如何讓時間管理不浪費時間的技巧/file-4.9590.jpg",
-    "效率时间/assets/发布产品时少点仓促，多点耐心/file-15.7568.jpg",
-    "效率时间/assets/发布产品时少点仓促，多点耐心/file-13.6172.jpg",
-    "效率时间/assets/今天晚上就該做，明天早上不要做的 5 個數位工作習慣/file-14.2432.jpg",
-    "效率时间/assets/不要让办公室成为你的效率杀手/file-314.8750.png",
     "效率时间/assets/這 10 件事情，不如留到「零碎時間」再做更有效率！",
     "效率时间/assets/理解关键路径：怎样用红绿两色扣子推进项目的完成",
     "效率时间/assets/现有的工作方式劳神费力，引进社交网络也非解决办法",
     "效率时间/assets/最省時間的時間管理方法：如何讓時間管理不浪費時間的技巧",
     "效率时间/assets/发布产品时少点仓促，多点耐心",
-    "效率时间/assets/今天晚上就該做，明天早上不要做的 5 個數位工作習慣",
-    "效率时间/assets/不要让办公室成为你的效率杀手",
-    "效率时间/assets/【效率-战胜拖延】番茄工作法  简单易行的时间管理方法",
-    "效率时间/高效  加、减、乘、除，让一件事情变得更高效.md",
-    "效率时间/這 10 件事情，不如留到「零碎時間」再做更有效率！.md",
-    "效率时间/谷歌高效能经理人的8个习惯和3个陷阱.md",
-    "效率时间/让每天变成 26 小时.md",
-    "效率时间/理解关键路径：怎样用红绿两色扣子推进项目的完成.md",
-    "效率时间/现有的工作方式劳神费力，引进社交网络也非解决办法.md",
-    "效率时间/最省時間的時間管理方法：如何讓時間管理不浪費時間的技巧.md",
-    "效率时间/提高效率的秘诀.md",
-    "效率时间/在家工作，10招助你效率、生活两不误.md",
-    "效率时间/发布产品时少点仓促，多点耐心.md",
-    "效率时间/别总把事情，留待将来去做.md",
-    "效率时间/今天晚上就該做，明天早上不要做的 5 個數位工作習慣.md",
-    "效率时间/什么是21天效应.md",
-    "效率时间/个人的五大管理.md",
-    "效率时间/不要让办公室成为你的效率杀手.md",
-    "效率时间/七个人生工具：SWOT、PDCA、6W2H、SMART、WBS、时间管理、二八原则.md",
-    "效率时间/【高效】提高工作效率三法.md",
-    "效率时间/【高效】只要知道这8个真相就可使你更有效率.md",
     "未命名.canvas"
   ]
 }

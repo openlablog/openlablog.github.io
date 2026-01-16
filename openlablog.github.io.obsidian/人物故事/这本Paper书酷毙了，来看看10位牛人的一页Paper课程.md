@@ -1,6 +1,6 @@
 ---
 created: 2026-01-14 15:17:04
-modified: 2026-01-16 20:44:52
+modified: 2026-01-16 22:28:43
 ---
 
 Paper 很酷，之后发布的蓝牙触控笔 Pencil 更是酷劲十足。那么把两者结合起来如何做一件更酷的事情呢，来看看 startupnotes 的 Gregory Koberger 做的这本非常特别的 Paper 书。

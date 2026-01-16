@@ -14,7 +14,7 @@
   "generatedAttachmentFileName": "file-${attachmentFileSize:{unit:'KB',decimalPoints:4}}",
   "includePaths": [],
   "jpegQuality": 0.8,
-  "markdownUrlFormat": "",
+  "markdownUrlFormat": "${generatedAttachmentFilePath}",
   "moveAttachmentToProperFolderUsedByMultipleNotesMode": "CopyAll",
   "renamedAttachmentFileName": "",
   "shouldDeleteOrphanAttachments": true,

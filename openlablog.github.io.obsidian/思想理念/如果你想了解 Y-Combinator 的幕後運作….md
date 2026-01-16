@@ -1,9 +1,9 @@
 ---
 created: 2026-01-16 10:40:32
-modified: 2026-01-16 21:07:13
+modified: 2026-01-16 22:28:39
 ---
 
-![[assets/如果你想了解 Y-Combinator 的幕後運作…/file-43.9268.jpg]]
+![](assets/如果你想了解%20Y-Combinator%20的幕後運作…/file-43.9268.jpg)
 
 2004 到 2008 年，我在美國親眼目睹了 Amazon Web Services、Myspace、Flash、Facebook、iPhone、Android、Unity 等這些新平台的相繼興起，讓「軟體」──尤其是透過網路傳遞的軟體──的地位越來越重要，而硬體的價值則越來越薄弱。2009 年，當我離開了在紐約與朋友一起創辦的 Muse Games，我決定要搬回台灣，回來推動網路產業在台灣的發展。
 
