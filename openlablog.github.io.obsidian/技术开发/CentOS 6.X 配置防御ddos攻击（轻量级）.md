@@ -1,12 +1,12 @@
 ---
 created: 2026-01-08 15:33:21
-modified: 2026-01-16 20:44:55
+modified: 2026-01-17 10:15:05
 ---
 
 我们可以使用 netstat 命令查看当前系统连接的状态，是否有受到 DDOS 攻击
 
 ```
-# netstat -ntu | awk '{print $5}' | cut -d: -f1 | sort | uniq -c | sort -n
+$ netstat -ntu | awk '{print $5}' | cut -d: -f1 | sort | uniq -c | sort -n
 ```
 
 前面是 IP 地址的请求数 
@@ -21,9 +21,9 @@ modified: 2026-01-16 20:44:55
 第一步：安装命令：
 
 ```
-# wget http://www.inetbase.com/scripts/ddos/install.sh
-# chmod 700 install.sh
-# ./install.sh
+$ wget http://www.inetbase.com/scripts/ddos/install.sh
+$ chmod 700 install.sh
+$ ./install.sh
 ```
 
 然后会自动进行安装，完成后会有一段版权提示与说明，按 q 键退出即可。
@@ -31,9 +31,9 @@ modified: 2026-01-16 20:44:55
 卸载命令：
 
 ```
-# wget http://www.inetbase.com/scripts/ddos/uninstall.ddos
-# chmod 700 uninstall.ddos
-# ./uninstall.ddos
+$ wget http://www.inetbase.com/scripts/ddos/uninstall.ddos
+$ chmod 700 uninstall.ddos
+$ ./uninstall.ddos
 ```
 
 第二步：修改配置
@@ -79,21 +79,21 @@ netstat -ntu | awk '{print $5}' | cut -d: -f1 | sed -n '/[0-9]/p' | sort | uniq 
 先添加定时 crond 执行任务：
 
 ```
-# crontab /etc/cron.d/ddos.cron
+$ crontab /etc/cron.d/ddos.cron
 ```
 
 然后启动服务：
 
 ```
-# service iptables restart
-# service crond restart
+$ service iptables restart
+$ service crond restart
 ```
 
 最后加入开机任务：
 
 ```
-# chkconfig crond on
-# chkconfig iptables on
+$ chkconfig crond on
+$ chkconfig iptables on
 ```
 
 收工。

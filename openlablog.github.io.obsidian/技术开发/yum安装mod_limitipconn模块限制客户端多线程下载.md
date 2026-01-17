@@ -1,6 +1,6 @@
 ---
 created: 2026-01-08 15:42:08
-modified: 2026-01-16 20:44:55
+modified: 2026-01-17 10:14:27
 ---
 
 由于网站几次被人以搞并发弄跨了，所以百度了一堆方法。其中有一篇针对 apache 的能限制 ip 访问量。不允许同一 ip 大并发访问。
@@ -8,13 +8,13 @@ modified: 2026-01-16 20:44:55
 安装模块
 
 ```
-# yum install mod_limitipconn.x86_64 -y
+$ yum install mod_limitipconn.x86_64 -y
 ```
 
 配置文件
 
 ```
-# ll /etc/httpd/conf.d/
+$ ll /etc/httpd/conf.d/
 total 16
 -rw-r--r-- 1 root root 475 Dec 11  2008 limitipconn.conf
 ```
@@ -22,7 +22,7 @@ total 16
 可直接在网站内做如下设置
 
 ```
-# vim /etc/httpd/conf/httpd.conf
+$ vim /etc/httpd/conf/httpd.conf
 ```
 
 ```bash

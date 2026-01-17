@@ -3,26 +3,65 @@ site_url: https://openlablog.github.io/
 docs_dir: ./openlablog.github.io.obsidian
 site_dir: ./site
 use_directory_urls: false
+copyright: "&copy; OPENLABLOG"
+
 theme:
   name: material
   language: zh
+  font: false
+  icon:
+    logo: material/book-education-outline
   features:
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.instant.preview
     - navigation.top
     - navigation.path
     - navigation.footer
+    - navigation.tracking
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.footnote.tooltips
   palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: default
+      primary: blue grey
       toggle:
         icon: material/lightbulb-outline
-        name: Switch to dark mode
+        name: 切换到暗黑模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: blue grey
       toggle:
         icon: material/lightbulb
-        name: Switch to light mode
+        name: 切换到明亮模式
+        
 markdown_extensions:
   - toc:
       permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - tables
+  - footnotes
+
 extra:
   generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/openlablog/openlablog.github.io
+      name: GitHub

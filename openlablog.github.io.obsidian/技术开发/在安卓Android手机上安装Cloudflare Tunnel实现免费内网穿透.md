@@ -1,6 +1,6 @@
 ---
 created: 2026-01-08 17:42:38
-modified: 2026-01-16 22:28:37
+modified: 2026-01-17 10:16:14
 ---
 
 ## 基础配置
@@ -35,10 +35,10 @@ modified: 2026-01-16 22:28:37
 
 ```bash
 #运行ssh
-sshd
+$ sshd
 
 #运行cloudflared tunnel
-nohup cloudflared tunnel run TUNNEL_NAME >/dev/null 2>&1 &
+$ nohup cloudflared tunnel run TUNNEL_NAME >/dev/null 2>&1 &
 ```
 
 第三步：重新打开 termux 后，查看后台进程命令：ps，结果中看到有“cloudflared”代表隧道正常运行
