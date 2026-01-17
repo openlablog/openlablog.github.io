@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd270615b178c05e",
+        "id": "f5e1eeefcceaa8c3",
         "type": "tabs",
         "children": [
           {
-            "id": "5be6f3d72d6a29a1",
+            "id": "a21e85582789d067",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 494.5
   },
   "right": {
     "id": "c4e513cec1adc294",
@@ -114,39 +114,6 @@
             }
           },
           {
-            "id": "723db05da3b5c985",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "3.运维/Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW 的出链列表"
-            }
-          },
-          {
-            "id": "60244a63895451e1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "index.md",
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
-            }
-          },
-          {
             "id": "9a75379ef03f3602",
             "type": "leaf",
             "state": {
@@ -167,7 +134,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "3.运维/Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW.md"
+                "file": "创业企业/创业公司如何变大：靠专属分销渠道.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -188,19 +155,7 @@
             }
           },
           {
-            "id": "a1533aacdca6c460",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "技术开发/Windows Server 使用 IIS 作为 SMTP 服务器.md"
-              },
-              "icon": "lucide-info",
-              "title": "Windows Server 使用 IIS 作为 SMTP 服务器的笔记属性"
-            }
-          },
-          {
-            "id": "b73a101db07c9c36",
+            "id": "7c941cb8a763c796",
             "type": "leaf",
             "state": {
               "type": "broken-links-view",
@@ -209,12 +164,11 @@
               "title": "Broken links"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 414.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,57 +178,58 @@
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "broken-links:View broken links": false
+      "broken-links:View broken links": false,
+      "force-bold-quotes:修复格式渲染": false
     }
   },
-  "active": "5be6f3d72d6a29a1",
+  "active": "794fc37695b7a070",
   "lastOpenFiles": [
-    "思想理念/用互联网思维推动商业发展.md",
-    "思想理念/与老板共进退，你才是下一个老板.md",
-    "思想理念/医疗消费者的改变给医疗营销带来的思考.md",
-    "技术开发/在安卓Android手机上安装Cloudflare Tunnel实现免费内网穿透.md",
-    "技术开发/Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW.md",
-    "技术开发/CentOS 6.X 安装DDoS-Deflate防御ddos攻击.md",
-    "技术开发/CentOS 6.X 配置防御ddos攻击（轻量级）.md",
-    "技术开发/JS正则表达式限制输入数量和金额.md",
-    "技术开发/JS字符串匹配手机号码的正则表达式.md",
-    "技术开发/JS字符串匹配所有网址（二级域名、多级域名）的正则表达式.md",
-    "技术开发/PHP 获取当前网址协议（各种服务器通用）.md",
-    "技术开发/php获取网页301,302后的真实地址,支持多重跳转.md",
-    "技术开发/Windows Server 使用 IIS 作为 SMTP 服务器.md",
-    "技术开发/yum安装mod_limitipconn模块限制客户端多线程下载.md",
+    "2.png",
+    "javascripts/extra.js",
     "index.md",
-    "设计体验/易用性与转化率的提升 - 打造良好UI的32条建议.md",
-    "设计体验/掌控大脑 - 怎样使产品体验更加符合用户心理及行为规律.md",
-    "设计体验/指尖上的浏览：如何理解用户的眼？.md",
-    "设计体验/怎样知道你的网站是不是弱爆了.md",
-    "设计体验/用户体验测试方法——AB 测试.md",
-    "设计体验/艺术思维：伟大创新的来源.md",
-    "效率时间/【效率-战胜拖延】番茄工作法  简单易行的时间管理方法.md",
-    "设计体验/assets/艺术思维：伟大创新的来源/file-21.6045.jpg",
-    "assets/file-21.6045.jpg.md",
-    "assets",
-    "设计体验/assets/用户体验测试方法——AB 测试/file-10.2119.jpg",
-    "设计体验/assets/易用性与转化率的提升 - 打造良好UI的32条建议/file-37.5879.jpg",
-    "设计体验/assets/易用性与转化率的提升 - 打造良好UI的32条建议/file-31.3301.jpg",
-    "设计体验/assets/易用性与转化率的提升 - 打造良好UI的32条建议/file-30.6426.jpg",
-    "设计体验/assets/易用性与转化率的提升 - 打造良好UI的32条建议/file-29.4980.jpg",
-    "设计体验/assets/易用性与转化率的提升 - 打造良好UI的32条建议/file-28.7695.jpg",
-    "设计体验/assets/易用性与转化率的提升 - 打造良好UI的32条建议/file-28.6201.jpg",
-    "设计体验/assets/易用性与转化率的提升 - 打造良好UI的32条建议/file-28.3174.jpg",
-    "设计体验/assets/易用性与转化率的提升 - 打造良好UI的32条建议/file-27.2998.jpg",
-    "效率时间/【高效】只要知道这8个真相就可使你更有效率.md",
-    "人物故事/乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（二）.md",
-    "人物故事/乔布斯说：要有iPhone，于是世界变了——写在乔布斯逝世两周年之际（三）.md",
-    "技术开发/assets/JS正则表达式限制输入数量和金额",
-    "技术开发/assets/Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW",
-    "技术开发/assets/在安卓Android手机上安装Cloudflare Tunnel实现免费内网穿透",
-    "assets/十佳应用的故事(2) - 视觉设计与开发",
-    "效率时间/assets/這 10 件事情，不如留到「零碎時間」再做更有效率！",
-    "效率时间/assets/理解关键路径：怎样用红绿两色扣子推进项目的完成",
-    "效率时间/assets/现有的工作方式劳神费力，引进社交网络也非解决办法",
-    "效率时间/assets/最省時間的時間管理方法：如何讓時間管理不浪費時間的技巧",
-    "效率时间/assets/发布产品时少点仓促，多点耐心",
+    "软件硬件/如何将有道云笔记导入到Obdibian.md",
+    "javascripts/无标题文档",
+    "javascripts",
+    "未命名文件夹",
+    "软件硬件/JS字符串匹配手机号码的正则表达式.md",
+    "软件硬件/在安卓Android手机上安装Cloudflare Tunnel实现免费内网穿透.md",
+    "创业企业/如何用「因式分解」評估你的APP idea.md",
+    "创业企业/assets/如何用「因式分解」評估你的APP idea/file-20.4629.jpg",
+    "创业企业/assets/如何用「因式分解」評估你的APP idea",
+    "软件硬件/Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW.md",
+    "软件硬件/yum安装mod_limitipconn模块限制客户端多线程下载.md",
+    "软件硬件/Windows Server 使用 IIS 作为 SMTP 服务器.md",
+    "软件硬件/php获取网页301,302后的真实地址,支持多重跳转.md",
+    "软件硬件/JS正则表达式限制输入数量和金额.md",
+    "软件硬件/CentOS 6.X 配置防御ddos攻击（轻量级）.md",
+    "软件硬件/CentOS 6.X 安装DDoS-Deflate防御ddos攻击.md",
+    "图说文字/电商分类.md",
+    "图说文字/创业地图.md",
+    "图说文字/不吃药照样身体好.md",
+    "图说文字/提高卵子质量吃什么.md",
+    "图说文字/空腹保持健康.md",
+    "图说文字/脾胃调理顺序.md",
+    "图说文字/甘草附子汤方.md",
+    "图说文字/assets/甘草附子汤方",
+    "图说文字/一夜七次郎秘方.md",
+    "图说文字/互联网企业许可证分类.md",
+    "图说文字/企业股权分配表.md",
+    "图说文字/全网71个私域引流入口大盘点.md",
+    "图说文字/人是CEO最重要的一课.md",
+    "图说文字/商标注册分类参考.md",
+    "图说文字/assets/专利申请流程",
+    "图说文字/assets/一夜七次郎秘方",
+    "图说文字/assets/小车检测时间表",
+    "图说文字/assets/投诉电话大全",
+    "图说文字/assets/提高卵子质量吃什么/file-361.6660.jpeg",
+    "图说文字/assets/甘草附子汤方/file-425.4131.jpeg",
+    "图说文字/assets/专利申请流程/file-168.3594.jpeg",
+    "图说文字/assets/时间四象限/file-90.3975.jpeg",
+    "图说文字/assets/互联网企业许可证分类/file-1241.0449.jpeg",
+    "图说文字/assets/私域流量怎么玩/file-468.4736.jpeg",
+    "图说文字/assets/投诉电话大全/file-905.1514.jpeg",
+    "图说文字/assets/私域用户运营流程图/file-451.4307.jpeg",
+    "图说文字/assets/人是CEO最重要的一课/file-426.0938.jpeg",
     "未命名.canvas"
   ]
 }

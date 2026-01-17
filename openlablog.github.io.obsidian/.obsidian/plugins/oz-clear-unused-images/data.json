@@ -1,7 +1,7 @@
 {
   "deleteOption": "system-trash",
   "logsModal": true,
-  "excludedFolders": "",
+  "excludedFolders": "javascripts",
   "ribbonIcon": false,
   "excludeSubfolders": false
 }

@@ -2,7 +2,9 @@
   "obsidian-linter",
   "editing-toolbar",
   "obsidian-custom-attachment-location",
-  "file-explorer-note-count",
   "oz-clear-unused-images",
-  "broken-links"
+  "broken-links",
+  "custom-font-loader",
+  "force-bold-quotes",
+  "novel-word-count"
 ]

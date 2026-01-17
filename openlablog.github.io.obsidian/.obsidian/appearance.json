@@ -2,7 +2,9 @@
   "showViewHeader": true,
   "showRibbon": true,
   "nativeMenus": false,
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "accentColor": "",
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "interfaceFontFamily": ""
 }

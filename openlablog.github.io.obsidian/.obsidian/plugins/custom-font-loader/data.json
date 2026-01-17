@@ -1,0 +1,7 @@
+{
+  "font_folder": ".obsidian/fonts/",
+  "font": "wqy-microhei.ttc",
+  "force_mode": false,
+  "custom_css_mode": false,
+  "custom_css": "/* Example CSS for your font: msyh */\n\n/* Apply to all text */\n:root * {\n\t--font-default: 'msyh';\n\t--default-font: 'msyh';\n\t--font-family-editor: 'msyh';\n\t--font-interface-override: 'msyh';\n\t--font-text-override: 'msyh';\n}\n\n/* Example: Apply to custom CSS class */\n.custom-font * {\n\tfont-family: 'msyh' !important;\n}\n\n/* Example: Apply to specific elements only */\n.custom-font h1, .custom-font h2, .custom-font h3 {\n\tfont-family: 'msyh' !important;\n}"
+}

@@ -64,3 +64,12 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/openlablog
       name: GitHub
+
+extra_javascript:
+  - javascripts/extra.js
+  
+plugins:
+  - exclude:
+      glob:
+        - ".obsidian/*"
+        - "*.tmp"
