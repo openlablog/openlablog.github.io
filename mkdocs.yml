@@ -63,5 +63,5 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/openlablog/openlablog.github.io
+      link: https://github.com/openlablog
       name: GitHub
