@@ -10,4 +10,4 @@ hide:
 
 这里纪录了一些东西。
 
-Github：[https://github.com/openlablog/openlablog.github.io](https://github.com/openlablog/openlablog.github.io)
+Github：[https://github.com/openlablog](https://github.com/openlablog)
