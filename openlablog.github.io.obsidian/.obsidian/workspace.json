@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f5e1eeefcceaa8c3",
+        "id": "311215eb9a604223",
         "type": "tabs",
         "children": [
           {
-            "id": "a21e85582789d067",
+            "id": "32acd76b9f5df0e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "新标签页"
             }
           }
         ]
@@ -104,13 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -215,11 +200,11 @@
       "force-bold-quotes:修复格式渲染": false
     }
   },
-  "active": "794fc37695b7a070",
+  "active": "32acd76b9f5df0e4",
   "lastOpenFiles": [
+    "index.md",
     "2.png",
     "javascripts/extra.js",
-    "index.md",
     "软件硬件/如何将有道云笔记导入到Obdibian.md",
     "javascripts/无标题文档",
     "javascripts",
@@ -262,7 +247,6 @@
     "图说文字/assets/私域流量怎么玩/file-468.4736.jpeg",
     "图说文字/assets/投诉电话大全/file-905.1514.jpeg",
     "图说文字/assets/私域用户运营流程图/file-451.4307.jpeg",
-    "图说文字/assets/人是CEO最重要的一课/file-426.0938.jpeg",
     "未命名.canvas"
   ]
 }
