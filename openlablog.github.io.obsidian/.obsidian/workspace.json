@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.5
+    "width": 432.5
   },
   "right": {
     "id": "c4e513cec1adc294",
@@ -162,6 +162,39 @@
               "state": {},
               "icon": "unlink",
               "title": "Broken links"
+            }
+          },
+          {
+            "id": "c09e96c8d8b90f42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "index 的反向链接列表"
+            }
+          },
+          {
+            "id": "bdc0e65272219381",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "index 的出链列表"
             }
           }
         ]

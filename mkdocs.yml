@@ -4,6 +4,8 @@ docs_dir: ./openlablog.github.io.obsidian
 site_dir: ./site
 use_directory_urls: false
 copyright: "&copy; OPENLABLOG"
+repo_url: https://github.com/openlablog/openlablog.github.io
+repo_name: ""
 
 theme:
   name: material
@@ -11,6 +13,7 @@ theme:
   font: false
   icon:
     logo: material/book-education-outline
+    repo: fontawesome/brands/github
   features:
     - content.code.copy
     - content.code.annotate
@@ -57,19 +60,16 @@ markdown_extensions:
   - pymdownx.tilde
   - tables
   - footnotes
-
-extra:
-  generator: false
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/openlablog
-      name: GitHub
-
-extra_javascript:
-  - javascripts/extra.js
   
 plugins:
+  - search
   - exclude:
       glob:
         - ".obsidian/*"
         - "*.tmp"
+
+extra:
+  generator: false
+
+extra_javascript:
+  - javascripts/extra.js
