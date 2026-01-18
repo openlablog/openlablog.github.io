@@ -14,10 +14,10 @@ theme:
   features:
     - content.code.copy
     - content.code.annotate
+    - content.footnote.tooltips
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
-    - navigation.instant.preview
     - navigation.top
     - navigation.path
     - navigation.footer
@@ -25,7 +25,6 @@ theme:
     - toc.follow
     - search.suggest
     - search.highlight
-    - content.footnote.tooltips
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
