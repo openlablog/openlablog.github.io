@@ -29339,6 +29339,33 @@
         "newlineCount": 0
       }
     },
+    "robots.txt": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1768734918159,
+      "modifiedDate": 1767260953090,
+      "sizeInBytes": 24,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
     "javascripts/extra.js": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -29369,36 +29396,28 @@
     "index.md": {
       "isCountable": true,
       "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 11,
+      "noteCount": 0,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03666666666666667,
-      "characterCount": 21,
-      "nonWhitespaceCharacterCount": 15,
-      "newlineCount": 6,
-      "readingTimeInMinutes": 0.022,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
+      "aliases": [],
       "createdDate": 1768567004593,
-      "modifiedDate": 1768668948683,
-      "sizeInBytes": 143,
+      "modifiedDate": 1768731595377,
+      "sizeInBytes": 258,
       "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03666666666666667,
-        "wordCount": 11,
-        "characterCount": 21,
-        "nonWhitespaceCharacterCount": 15,
-        "newlineCount": 6
-      },
-      "frontmatter": {
-        "created": "2026-01-06 14:12:15",
-        "updated": "2026-01-18 00:55:46",
-        "title": "首页",
-        "hide": [
-          "footer"
-        ]
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
       }
     },
     "CNAME": {
