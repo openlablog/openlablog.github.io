@@ -1,6 +1,6 @@
 ---
 created: 2026-01-18 00:15:48
-updated: 2026-01-18 00:43:34
+updated: 2026-01-20 00:51:09
 ---
 
 ### 第一步：导出笔记
@@ -13,6 +13,6 @@ updated: 2026-01-18 00:43:34
 
 然后使用工具 html-to-markdown 将 网页转成 Markdown 格式，下载地址：[https://github.com/JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown)
 
-### 第三步：导入 Obdibian
+### 第三步：导入 Obsibian
 
-最后修改后辍 **.note** 成 **.md**，导入到 Obdibian 即可完成。
+最后修改后辍 **.note** 成 **.md**，导入到 Obsibian 即可完成。
