@@ -1,10 +1,10 @@
 [
   "obsidian-linter",
   "editing-toolbar",
-  "obsidian-custom-attachment-location",
-  "oz-clear-unused-images",
-  "broken-links",
   "custom-font-loader",
+  "novel-word-count",
+  "obsidian-custom-attachment-location",
   "force-bold-quotes",
-  "novel-word-count"
+  "file-cleaner-redux",
+  "broken-links"
 ]

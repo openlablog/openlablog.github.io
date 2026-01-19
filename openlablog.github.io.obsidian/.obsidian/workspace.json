@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "311215eb9a604223",
+        "id": "bf5d56ee8c040459",
         "type": "tabs",
         "children": [
           {
-            "id": "32acd76b9f5df0e4",
+            "id": "5fcb0b49a49c997d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,7 +70,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -119,7 +120,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "创业企业/创业公司如何变大：靠专属分销渠道.md"
+                "file": "index.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -140,46 +141,13 @@
             }
           },
           {
-            "id": "7c941cb8a763c796",
+            "id": "f5a83a575960a3a5",
             "type": "leaf",
             "state": {
               "type": "broken-links-view",
               "state": {},
               "icon": "unlink",
               "title": "Broken links"
-            }
-          },
-          {
-            "id": "c09e96c8d8b90f42",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "index.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
-            }
-          },
-          {
-            "id": "bdc0e65272219381",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "index.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "index 的出链列表"
             }
           }
         ]
@@ -196,24 +164,48 @@
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "force-bold-quotes:修复格式渲染": false,
       "broken-links:View broken links": false,
-      "force-bold-quotes:修复格式渲染": false
+      "file-cleaner-redux:Clean files": false,
+      "obsidian-file-cleaner:清理文件": false,
+      "llm-test-gen:Test dashboard": false
     }
   },
-  "active": "32acd76b9f5df0e4",
+  "active": "5fcb0b49a49c997d",
   "lastOpenFiles": [
+    "图说文字/assets/甘草附子汤方",
+    "设计体验/assets/用户体验测试方法——AB 测试/file-10.2119.jpg",
+    "设计体验/assets/用户体验测试方法——AB 测试/file-10.2012.jpg",
+    "设计体验/用户体验测试方法——AB 测试.md",
+    "设计体验/用互联网思维做产品的7个要素.md",
+    "设计体验/用户体验测试方法AB测试.md",
+    "设计体验/assets/用户体验测试方法——AB 测试",
+    "robots.txt",
+    "CNAME",
+    "设计体验/assets/用户体验测试方法AB测试/file-10.2012.jpg",
+    "设计体验/assets/用户体验测试方法AB测试",
+    "设计体验/艺术思维：伟大创新的来源.md",
+    "设计体验/assets/用户体验测试方法AB 测试",
+    "assets/用户体验测试方法-AB.md",
+    "设计体验/assets/用户体验测试方法AB测试/file-10.2119.jpg",
+    "设计体验/assets/用户体验测试方法-AB 测试",
+    "assets/用户体验测试方法——AB.md",
+    "assets",
+    "设计体验/在访问者与网站间建立信任的三个点核心要素.md",
     "index.md",
-    "2.png",
     "javascripts/extra.js",
+    "files without tags.md",
+    "broken links output.md",
+    "orphaned files output.md",
+    "empty files.md",
+    "2.png",
     "软件硬件/如何将有道云笔记导入到Obdibian.md",
     "javascripts/无标题文档",
     "javascripts",
-    "未命名文件夹",
     "软件硬件/JS字符串匹配手机号码的正则表达式.md",
     "软件硬件/在安卓Android手机上安装Cloudflare Tunnel实现免费内网穿透.md",
     "创业企业/如何用「因式分解」評估你的APP idea.md",
     "创业企业/assets/如何用「因式分解」評估你的APP idea/file-20.4629.jpg",
-    "创业企业/assets/如何用「因式分解」評估你的APP idea",
     "软件硬件/Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW.md",
     "软件硬件/yum安装mod_limitipconn模块限制客户端多线程下载.md",
     "软件硬件/Windows Server 使用 IIS 作为 SMTP 服务器.md",
@@ -223,30 +215,10 @@
     "软件硬件/CentOS 6.X 安装DDoS-Deflate防御ddos攻击.md",
     "图说文字/电商分类.md",
     "图说文字/创业地图.md",
-    "图说文字/不吃药照样身体好.md",
-    "图说文字/提高卵子质量吃什么.md",
-    "图说文字/空腹保持健康.md",
-    "图说文字/脾胃调理顺序.md",
-    "图说文字/甘草附子汤方.md",
-    "图说文字/assets/甘草附子汤方",
-    "图说文字/一夜七次郎秘方.md",
-    "图说文字/互联网企业许可证分类.md",
-    "图说文字/企业股权分配表.md",
-    "图说文字/全网71个私域引流入口大盘点.md",
-    "图说文字/人是CEO最重要的一课.md",
-    "图说文字/商标注册分类参考.md",
-    "图说文字/assets/专利申请流程",
-    "图说文字/assets/一夜七次郎秘方",
-    "图说文字/assets/小车检测时间表",
-    "图说文字/assets/投诉电话大全",
     "图说文字/assets/提高卵子质量吃什么/file-361.6660.jpeg",
     "图说文字/assets/甘草附子汤方/file-425.4131.jpeg",
     "图说文字/assets/专利申请流程/file-168.3594.jpeg",
     "图说文字/assets/时间四象限/file-90.3975.jpeg",
-    "图说文字/assets/互联网企业许可证分类/file-1241.0449.jpeg",
-    "图说文字/assets/私域流量怎么玩/file-468.4736.jpeg",
-    "图说文字/assets/投诉电话大全/file-905.1514.jpeg",
-    "图说文字/assets/私域用户运营流程图/file-451.4307.jpeg",
     "未命名.canvas"
   ]
 }
