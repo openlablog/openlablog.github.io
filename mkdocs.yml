@@ -1,9 +1,7 @@
 site_name: OPENLABLOG
 site_url: https://openlablog.is-a.dev/
-docs_dir: ./openlablog.github.io.obsidian
-site_dir: ./site
-use_directory_urls: false
 copyright: "&copy; OPENLABLOG"
+use_directory_urls: false
 
 theme:
   name: material
@@ -11,6 +9,7 @@ theme:
   font: false
   icon:
     logo: material/book-education-outline
+  favicon: favicon.ico
   features:
     - content.code.copy
     - content.code.annotate
