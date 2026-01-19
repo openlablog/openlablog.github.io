@@ -14,9 +14,6 @@ theme:
     - content.code.copy
     - content.code.annotate
     - content.footnote.tooltips
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
     - navigation.top
     - navigation.path
     - navigation.footer
