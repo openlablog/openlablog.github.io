@@ -24,13 +24,13 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue grey
+      primary: teal
       toggle:
         icon: material/lightbulb-outline
         name: 切换到暗黑模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue grey
+      primary: teal
       toggle:
         icon: material/lightbulb
         name: 切换到明亮模式
