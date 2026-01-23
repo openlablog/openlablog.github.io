@@ -5,11 +5,12 @@ use_directory_urls: false
 
 theme:
   name: material
+  custom_dir: overrides
   language: zh
   font: false
   icon:
     logo: material/book-education-outline
-  favicon: favicon.ico
+  favicon: assets/images/favicon.png
   features:
     - content.code.copy
     - content.code.annotate
@@ -55,13 +56,14 @@ markdown_extensions:
   
 plugins:
   - search
+  - minify_html
   - exclude:
       glob:
         - ".obsidian/*"
         - "*.tmp"
 
 extra_javascript:
-  - javascripts/extra.js
+  - assets/javascripts/extra.js
 
 extra:
   generator: false
