@@ -1,6 +1,7 @@
 ---
 created: 2026-01-16 10:40:32
-updated: 2026-01-18 00:00:28
+updated: 2026-01-24 15:50:58
+weight: 0
 ---
 
 ![](assets/万维网发明人Tim%20Berners%20Lee谈“开放”（Open）的8重含义/file-22.7246.jpg)

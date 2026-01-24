@@ -1,6 +1,7 @@
 ---
 created: 2026-01-16 12:26:35
-updated: 2026-01-17 23:53:52
+updated: 2026-01-24 15:51:04
+weight: 0
 ---
 
 编者注：本文由 [Andy Smith](http://andysmith.brandyourself.com/) 发表在 [First Round Review](http://firstround.com/article/The-Seven-Deadly-Sins-of-Startup-Storytelling)，分析了 storytelling 的重要性和不该触及的七个方面，当内容营销越来越重要的时候，公司品牌背后的故事不仅代表了更多的意义，甚至已经成为每一家公司的标配策略，特别是对于初创企业，“每一家初创企业都应该以媒体的形式开始”。

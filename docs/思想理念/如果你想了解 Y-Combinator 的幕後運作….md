@@ -1,6 +1,7 @@
 ---
 created: 2026-01-16 10:40:32
-updated: 2026-01-18 00:00:26
+updated: 2026-01-24 15:50:57
+weight: 0
 ---
 
 ![](assets/如果你想了解%20Y-Combinator%20的幕後運作…/file-43.9268.jpg)

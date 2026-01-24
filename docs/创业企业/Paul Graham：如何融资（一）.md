@@ -1,6 +1,7 @@
 ---
 created: 2026-01-16 12:26:35
-updated: 2026-01-17 23:52:18
+updated: 2026-01-24 15:51:07
+weight: 0
 ---
 
 ![](assets/Paul%20Graham：如何融资（一）/file-32.4766.jpg)

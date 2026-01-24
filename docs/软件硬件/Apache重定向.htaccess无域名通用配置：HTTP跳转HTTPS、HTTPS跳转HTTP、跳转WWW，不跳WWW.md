@@ -1,6 +1,7 @@
 ---
 created: 2026-01-08 17:41:06
-updated: 2026-01-18 00:23:56
+updated: 2026-01-24 14:53:05
+weight: 6
 ---
 
 ## HTTP 跳转 HTTPS
@@ -24,7 +25,7 @@ RewriteRule ^/?(.*) http://%{SERVER_NAME}/$1 [R,L]
 ```apache
 RewriteEngine On
 
-# 设置%{ENV:PROTO}变量，以允许重写自动使用适当的模式重定向（http或者https) 
+# 设置%{ENV:PROTO}变量，以允许重写自动使用适当的模式重定向（http或者https)
 RewriteCond %{HTTPS} =on
 RewriteRule ^ - [E=PROTO:https]
 RewriteCond %{HTTPS} !=on
@@ -39,7 +40,7 @@ RewriteRule ^ %{ENV:PROTO}://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 ```apache
 RewriteEngine On
 
-# 设置%{ENV:PROTO}变量，以允许重写自动使用适当的模式重定向（http或者https) 
+# 设置%{ENV:PROTO}变量，以允许重写自动使用适当的模式重定向（http或者https)
 RewriteCond %{HTTPS} =on
 RewriteRule ^ - [E=PROTO:https]
 RewriteCond %{HTTPS} !=on

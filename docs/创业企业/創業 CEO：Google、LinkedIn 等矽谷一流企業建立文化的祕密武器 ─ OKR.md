@@ -1,6 +1,7 @@
 ---
 created: 2026-01-16 12:26:35
-updated: 2026-01-17 22:01:04
+updated: 2026-01-24 15:51:03
+weight: 0
 ---
 
 ![](assets/創業%20CEO：Google、LinkedIn%20等矽谷一流企業建立文化的祕密武器%20─%20OKR/file-25.6064.jpg)

@@ -1,6 +1,7 @@
 ---
 created: 2026-01-08 17:37:37
-updated: 2026-01-18 00:15:09
+updated: 2026-01-24 14:47:15
+weight: 1
 ---
 
 限制输入数量：
@@ -10,7 +11,7 @@ updated: 2026-01-18 00:15:09
 // 前两位不能同时是 0
 
 ```javascript
-value = value.replace(/[^\d]/g,'').replace(/^00*(\d)([0-9]*)/g,'$1$2')
+value = value.replace(/[^\d]/g, '').replace(/^00*(\d)([0-9]*)/g, '$1$2')
 ```
 
 限制输入金额：
@@ -22,5 +23,12 @@ value = value.replace(/[^\d]/g,'').replace(/^00*(\d)([0-9]*)/g,'$1$2')
 // 保证小数点只出现一次，而不能出现两次以上
 
 ```javascript
-value = value.replace(/[^\d\.]/g,'').replace(/^00*(\d)([0-9]*)/g,'$1$2').replace(/^\./g,'').replace('.','$#$').replace(/\./g,'').replace('$#$','.').replace(/^(\-)*(\d+)\.(\d\d).*$/,'$1$2.$3')
+value = value
+    .replace(/[^\d\.]/g, '')
+    .replace(/^00*(\d)([0-9]*)/g, '$1$2')
+    .replace(/^\./g, '')
+    .replace('.', '$#$')
+    .replace(/\./g, '')
+    .replace('$#$', '.')
+    .replace(/^(\-)*(\d+)\.(\d\d).*$/, '$1$2.$3')
 ```

@@ -1,6 +1,7 @@
 ---
 created: 2026-01-15 01:54:05
-updated: 2026-01-17 21:56:58
+updated: 2026-01-24 15:51:03
+weight: 0
 ---
 
 ![](assets/創業%20CEO：打動人心的%20Vision/file-261.4805.png)

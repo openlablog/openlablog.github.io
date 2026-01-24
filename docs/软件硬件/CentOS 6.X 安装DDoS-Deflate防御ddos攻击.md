@@ -1,6 +1,7 @@
 ---
 created: 2026-01-08 16:11:22
-updated: 2026-01-18 00:15:13
+updated: 2026-01-24 14:50:57
+weight: 4
 ---
 
 DDoS-Deflate 是一款非常小巧的防御和减轻 DDoS 攻击的工具，它可以通过监测 netstat 来跟踪来创建大量互联网连接的 IP 地址信息，通过 IPTABLES 禁止或阻档这些非常 IP 地址。

@@ -1,6 +1,7 @@
 ---
 created: 2026-01-16 12:26:35
-updated: 2026-01-17 23:49:03
+updated: 2026-01-24 15:51:07
+weight: 0
 ---
 
 *编者按：公司 CEO 在用人方面需要作出理性的决定。当面对一个能力不能胜任现有岗位的员工时，如何安置其所是一件头疼但必须去面对的事儿。本文作者为 LinkedIn CEO Jeff Weiner，他给出的建议是：“不要让投手在场上待得太久，久到他们已无力发挥到最好。”本文原载于 [其LinkedIn 主页](https://www.linkedin.com/today/post/article/20140203145935-22330283-the-most-valuable-lesson-i-ve-learned-as-a-ceo?_mSplash=1)，原标题为《The Most Valuable Lesson I‘ve Learned as a CEO》。*

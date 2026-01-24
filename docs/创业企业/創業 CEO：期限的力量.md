@@ -1,6 +1,7 @@
 ---
 created: 2026-01-16 12:26:35
-updated: 2026-01-17 21:57:54
+updated: 2026-01-24 15:51:03
+weight: 0
 ---
 
 在每週一次的「[創業 CEO](http://mrjamie.cc/category/ceo/)」系列，我們討論創業者如何教會自己成為偉大的 CEO，因為歷史上最偉大的創業公司，往往都是由這樣的人在 [領導](http://mrjamie.cc/2012/11/12/startup-ceo/)。

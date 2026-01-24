@@ -56,6 +56,10 @@ markdown_extensions:
   
 plugins:
   - search
+  - awesome-pages
+  - mkdocs-nav-weight:
+      reverse: true
+      index_weight: 999999999
   - minify:
       minify_html: true
       minify_js: true
