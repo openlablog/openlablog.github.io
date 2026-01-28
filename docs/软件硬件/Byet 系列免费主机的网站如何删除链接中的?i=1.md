@@ -1,6 +1,6 @@
 ---
 created: 2026-01-28 19:51:52
-updated: 2026-01-28 21:05:54
+updated: 2026-01-28 22:24:44
 weight: 15
 ---
 
@@ -36,4 +36,4 @@ weight: 15
 
 中转页面是经过加密后的页面，判断是否存在相应的 cookies，如果不存在就跳转到中转页面（原链接 +?i=1）。
 
-cloudflare workers 反代实现 api 请求跳过带?i=1 的中转页面，代码在 GitHub 仓库：[https://github.com/openlablog/workers-jump-i-1-byet](https://github.com/openlablog/workers-jump-i-1-byet)
+cloudflare workers 实现 api 请求跳过带?i=1 的中转页面，代码在 GitHub 仓库：[https://github.com/openlablog/workers-jump-i-1-byet](https://github.com/openlablog/workers-jump-i-1-byet)
