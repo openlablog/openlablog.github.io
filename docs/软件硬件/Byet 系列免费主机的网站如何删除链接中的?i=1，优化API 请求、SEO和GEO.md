@@ -1,6 +1,6 @@
 ---
 created: 2026-01-28 19:51:52
-updated: 2026-01-29 08:54:48
+updated: 2026-01-29 09:01:28
 weight: 15
 ---
 
@@ -20,7 +20,11 @@ weight: 15
 
 ## 一、删除链接中的?i=1
 
-在页面头部添加以下代码，实现自动删除?i=1，示例网站：[https://how-to-remove-i-1.infinityfree.me](https://how-to-remove-i-1.infinityfree.me)
+示例页面 1：没有删除链接中的?i=1 [https://how-to-remove-i-1.infinityfree.me/no_delete.html](https://how-to-remove-i-1.infinityfree.me/no_delete.html)
+
+示例页面 2：自动删除链接中的?i=1 [https://how-to-remove-i-1.infinityfree.me/delete_i_1.html](https://how-to-remove-i-1.infinityfree.me/delete_i_1.html)
+
+在页面头部添加以下代码，可以实现自动删除?i=1
 
 ```html
 <head>
