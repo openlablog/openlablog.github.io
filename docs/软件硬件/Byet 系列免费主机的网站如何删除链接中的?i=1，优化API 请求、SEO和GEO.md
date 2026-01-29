@@ -1,6 +1,6 @@
 ---
 created: 2026-01-28 19:51:52
-updated: 2026-01-29 08:50:02
+updated: 2026-01-29 08:54:48
 weight: 15
 ---
 
@@ -38,4 +38,4 @@ weight: 15
 
 ## 二、优化 API 请求、SEO 和 GEO
 
-优化代码在 GitHub 仓库：[https://github.com/openlablog/workers-jump-i-1-byet](https://github.com/openlablog/workers-jump-i-1-byet)
+优化代码在 GitHub 仓库：[https://github.com/openlablog/optimizing-api-seo-geo-for-byet](https://github.com/openlablog/optimizing-api-seo-geo-for-byet)
