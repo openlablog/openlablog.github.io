@@ -1,6 +1,6 @@
 ---
 created: 2026-02-02 15:54:34
-updated: 2026-02-02 16:06:38
+updated: 2026-02-07 10:35:39
 weight: 16
 ---
 
@@ -21,6 +21,7 @@ export default async (html: string): Promise<string> => {
         if (match.toLowerCase().startsWith('<script') || match.toLowerCase().startsWith('<style')) {
             let cleaned = match
                 .replace(/\/\*[\s\S]*?\*\//g, '') // 移除多行注释
+                .replace(/(^|[^:])\/\/.*$/gm, '$1') // 移除单行注释
                 .replace(/^\s+|\s+$/gm, '') // 移除行首尾空格
                 .replace(/\n\s*\n/g, '\n'); // 合并空行
             cache.push(cleaned);
