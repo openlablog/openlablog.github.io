@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e6710c1f052d652a",
+        "id": "02135f0362e240a0",
         "type": "tabs",
         "children": [
           {
-            "id": "4a2ed27381343e60",
+            "id": "20a28080cd101435",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "效率时间/【效率-战胜拖延】番茄工作法  简单易行的时间管理方法.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "【效率-战胜拖延】番茄工作法  简单易行的时间管理方法"
+              "title": "新标签页"
             }
           }
         ]
@@ -161,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "file-46.8789.jpg",
+                "file": "精选短文/国际玩笑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 449.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,54 +205,53 @@
       "nav-weight:Nav Weight: click to disable": false
     }
   },
-  "active": "4a2ed27381343e60",
+  "active": "20a28080cd101435",
   "lastOpenFiles": [
+    "精选短文/assets/人生最珍贵的六样东西/file-cc814d97-4d94-4dfa-9eb1-840a151c1e42.png",
+    "精选短文/成功金句.md",
+    "精选短文/人生最珍贵的六样东西.md",
+    "精选短文/assets/人生最珍贵的六样东西",
+    "精选短文/assets",
+    "精选短文/国际玩笑.md",
     "index.md",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/have.md",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1",
+    "Plugin data/obsidian-custom-attachment-location",
+    "Plugin data",
+    "媒体营销/6招让文章在网上爆红的方法.md",
+    "精选短文/assets/成功金句/file-abcf7575-ea64-4bc7-94eb-d94089792e1a.md",
+    "精选短文/assets/成功金句/file-2739ae24-a3ac-4178-b08c-93cdb440fbbd.docx",
+    "媒体营销/assets/6招让文章在网上爆红的方法/file-26.4619.jpeg",
+    "精选短文/assets/成功金句/file-763718ba-b380-41be-a6b5-327b2ee8bfff.png",
+    "精选短文/assets/成功金句",
+    "软件硬件/Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW.md",
+    "软件硬件/Byet 系列免费主机的网站如何删除链接中的?i=1，优化API 请求、SEO和GEO.md",
+    "软件硬件/assets/Smarty PHP模板引擎压缩HTML/file-109.4941.jpg",
+    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1，优化API 请求、SEO和GEO/file-62.8477.jpg",
+    "精选短文/慈不带兵，义不养财.md",
+    "精选短文/assets/国际玩笑/file-2d1b71507437a58862b7763192177c79.png",
+    "精选短文/assets/国际玩笑/file-1e4af81dfd14f777d1c40f0f17f2ec16.png",
+    "assets/国际玩笑",
+    "精选短文/华人首富李嘉诚说.md",
+    "assets/华人首富李嘉诚说/img-1e4af81dfd14f777d1c40f0f17f2ec16.png",
+    "assets/国际玩笑/img-1e4af81dfd14f777d1c40f0f17f2ec16.png",
+    "assets/成功金句/img-1e4af81dfd14f777d1c40f0f17f2ec16.png",
+    "媒体营销/【2013版最新广告信任度排名】.md",
+    "精选短文/需求链.md",
+    "媒体营销/2014年民营医院网络营销如何突破.md",
+    "媒体营销/30个被过度使用的数字营销术语.md",
+    "精选短文/没有难做的生意了.md",
+    "效率时间/【效率-战胜拖延】番茄工作法  简单易行的时间管理方法.md",
     "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/log-472.md",
-    "assets/index/file-16.2900.jpg",
     "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/log-471.md",
-    "assets/index",
-    "assets",
-    "file-46.8789.jpg",
     "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/log-429.md",
     "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/snapshot-1107c3f6-8f52-458c-a47c-fe9d9112923f-manifest.md",
     "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/snapshot-1107c3f6-8f52-458c-a47c-fe9d9112923f-manifest-0.md",
     "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/log-114.md",
-    "软件硬件/assets/Windows Server 使用 IIS 作为 SMTP 服务器/file-95.2881.jpg",
-    "软件硬件/assets/Windows Server 使用 IIS 作为 SMTP 服务器/file-7.1191.png",
-    "软件硬件/assets/Windows Server 使用 IIS 作为 SMTP 服务器/file-7.0068.png",
-    "软件硬件/assets/Windows Server 使用 IIS 作为 SMTP 服务器/file-5.5449.png",
-    "软件硬件/assets/Windows Server 使用 IIS 作为 SMTP 服务器/file-46.6699.jpg",
-    "软件硬件/assets/Windows Server 使用 IIS 作为 SMTP 服务器/file-4.5342.png",
-    "软件硬件/assets/Windows Server 使用 IIS 作为 SMTP 服务器/file-25.5293.png",
-    "软件硬件/assets/Windows Server 使用 IIS 作为 SMTP 服务器/file-19.9199.png",
-    "软件硬件/assets/Windows Server 使用 IIS 作为 SMTP 服务器",
-    "软件硬件/assets/Smarty PHP模板引擎压缩HTML",
-    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1，优化API 请求、SEO和GEO",
-    "软件硬件/assets",
-    "设计体验/assets/解读互联网产品布局的几种方法",
-    "设计体验/assets/產品設計靠邊，用戶體驗創新才是王道",
-    "设计体验/assets/打造成功的产品 – 以小为始，公听并观",
-    "设计体验/assets/兼顾UE与SEO的六种利器",
     "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/snapshot-c448922b-cc26-4c92-908a-a844697a4fd5-manifest.md",
     "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/snapshot-c448922b-cc26-4c92-908a-a844697a4fd5-manifest-0.md",
-    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/log-46.md",
-    "效率时间/【高效】提高工作效率三法.md",
-    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/log-9.md",
-    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/log-3.md",
-    "效率时间/【经验谈】1天=48小时？！.md",
-    "设计体验/十佳应用的故事(1) - 想法、产品定义与交互设计.md",
-    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/have.md",
-    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/log-1.md",
-    "设计体验/不专业和表现的不专业，是两码事儿.md",
-    "设计体验/10 个假装你很懂用户体验的方法.md",
-    "软件硬件/针对 CloudFlare Workers + Hono 环境优化的 HTML 压缩器.md",
-    "软件硬件/Byet 系列免费主机的网站如何删除链接中的?i=1，优化API 请求、SEO和GEO.md",
-    "软件硬件/Smarty PHP模板引擎压缩HTML.md",
-    "assets/Byet 系列免费主机的网站如何删除链接中的?i=1/file-50.0176.jpg.md",
-    "图说文字/不吃药照样身体好.md",
-    "图说文字/本命感悟.md",
-    "软件硬件/JS正则表达式限制输入数量和金额.md",
     "未命名.canvas"
   ]
 }

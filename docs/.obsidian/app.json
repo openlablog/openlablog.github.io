@@ -14,5 +14,6 @@
   "promptDelete": false,
   "tabSize": 4,
   "attachmentFolderPath": "/",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }

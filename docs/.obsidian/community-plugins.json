@@ -3,11 +3,10 @@
   "editing-toolbar",
   "custom-font-loader",
   "novel-word-count",
-  "obsidian-custom-attachment-location",
   "file-cleaner-redux",
   "broken-links",
   "prettier",
   "force-bold-quotes",
   "nav-weight",
-  "advanced-rename-and-delete-handler"
+  "import-attachments-plus"
 ]
