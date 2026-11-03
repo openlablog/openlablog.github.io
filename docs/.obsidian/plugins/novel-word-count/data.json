@@ -1,0 +1,75 @@
+{
+  "cachedCounts": {},
+  "settings": {
+    "useAdvancedFormatting": false,
+    "countType": "embed",
+    "countConfig": {
+      "customSuffix": "em",
+      "$sessionCountType": "word"
+    },
+    "countType2": "word",
+    "countConfig2": {
+      "$sessionCountType": "note",
+      "customSuffix": "w"
+    },
+    "countType3": "none",
+    "countConfig3": {
+      "$sessionCountType": "word"
+    },
+    "pipeSeparator": "|",
+    "abbreviateDescriptions": false,
+    "alignment": "right",
+    "showSameCountsOnFolders": false,
+    "folderCountType": "note",
+    "folderCountConfig": {
+      "customSuffix": "n",
+      "$sessionCountType": "word"
+    },
+    "folderCountType2": "filesize",
+    "folderCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "folderCountType3": "embed",
+    "folderCountConfig3": {
+      "$sessionCountType": "word",
+      "customSuffix": "em"
+    },
+    "folderPipeSeparator": "|",
+    "folderAbbreviateDescriptions": false,
+    "folderAlignment": "right",
+    "showSameCountsOnRoot": false,
+    "rootCountType": "note",
+    "rootCountConfig": {
+      "customSuffix": "n",
+      "$sessionCountType": "word"
+    },
+    "rootCountType2": "embed",
+    "rootCountConfig2": {
+      "$sessionCountType": "word",
+      "customSuffix": "em"
+    },
+    "rootCountType3": "filesize",
+    "rootCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "rootPipeSeparator": "|",
+    "rootAbbreviateDescriptions": false,
+    "showAdvanced": false,
+    "labelOpacity": 0.7,
+    "wordsPerMinute": 265,
+    "charsPerMinute": 500,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "charsPerPageIncludesWhitespace": false,
+    "characterCountType": "AllCharacters",
+    "pageCountType": "ByWords",
+    "includeDirectories": "",
+    "excludeComments": false,
+    "excludeCodeBlocks": false,
+    "excludeNonVisibleLinkPortions": false,
+    "excludeFootnotes": false,
+    "momentDateFormat": "",
+    "debugMode": false,
+    "writeCountsToFile": false
+  }
+}

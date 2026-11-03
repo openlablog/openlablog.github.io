@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "3bfc61ed7ac05598",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba7ce83ae9ba93a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "961ae5faea0ac4b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "效率时间/【经验谈】1天=48小时？！.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "【经验谈】1天=48小时？！"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11868c25cb252dbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e6ab994a8f11356",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "794fc37695b7a070",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "53b193057cf0e134",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "45ee3007f3d63c13",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390.5
+  },
+  "right": {
+    "id": "c4e513cec1adc294",
+    "type": "split",
+    "children": [
+      {
+        "id": "a37e28aaae5c50c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43b0c9ee0533e6e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "9a75379ef03f3602",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d16c0fe0de6fdf0f",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "index.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          },
+          {
+            "id": "b737061b1fc29656",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "57c332f034a460e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "效率时间/【经验谈】1天=48小时？！.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "1784ff97e999ffaf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "index 的出链列表"
+            }
+          },
+          {
+            "id": "1e3b0b613637d302",
+            "type": "leaf",
+            "state": {
+              "type": "broken-links-view",
+              "state": {},
+              "icon": "unlink",
+              "title": "Broken links"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 414.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "file-cleaner-redux:Clean files": false,
+      "broken-links:View broken links": false,
+      "force-bold-quotes:修复格式渲染": false,
+      "nav-weight:Nav Weight: click to disable": false
+    }
+  },
+  "active": "961ae5faea0ac4b6",
+  "lastOpenFiles": [
+    "效率时间/【高效】提高工作效率三法.md",
+    "设计体验/十佳应用的故事(1) - 想法、产品定义与交互设计.md",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/have.md",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/log-1.md",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1",
+    "Plugin data/obsidian-custom-attachment-location",
+    "Plugin data",
+    "设计体验/不专业和表现的不专业，是两码事儿.md",
+    "设计体验/10 个假装你很懂用户体验的方法.md",
+    "index.md",
+    "软件硬件/针对 CloudFlare Workers + Hono 环境优化的 HTML 压缩器.md",
+    "软件硬件/Byet 系列免费主机的网站如何删除链接中的?i=1，优化API 请求、SEO和GEO.md",
+    "软件硬件/Smarty PHP模板引擎压缩HTML.md",
+    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1，优化API 请求、SEO和GEO",
+    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1，优化API 请求、SEO、GEO",
+    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1，优化SEO和GEO",
+    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1和优化SEO、GEO",
+    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1和优化SEO+GEO",
+    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1，优化API 请求、SEO和GEO/file-62.8477.jpg",
+    "assets/Byet 系列免费主机的网站如何删除链接中的?i=1/file-50.0176.jpg.md",
+    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1/file-50.0176.jpg",
+    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1/file-63.0313.jpg",
+    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1/file-63.0313 1.jpg",
+    "效率时间/【经验谈】1天=48小时？！.md",
+    "图说文字/不吃药照样身体好.md",
+    "图说文字/本命感悟.md",
+    "软件硬件/JS正则表达式限制输入数量和金额.md",
+    "软件硬件/JS字符串匹配手机号码的正则表达式.md",
+    "软件硬件/CentOS 6.X 安装DDoS-Deflate防御ddos攻击.md",
+    "软件硬件/CentOS 6.X 配置防御ddos攻击（轻量级）.md",
+    "软件硬件/Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW.md",
+    "软件硬件/在安卓Android手机上安装Cloudflare Tunnel实现免费内网穿透.md",
+    "软件硬件/yum安装mod_limitipconn模块限制客户端多线程下载.md",
+    "软件硬件/PHP 获取当前网址协议（各种服务器通用）.md",
+    "软件硬件/php获取网页301,302后的真实地址,支持多重跳转.md",
+    "软件硬件/Windows Server 使用 IIS 作为 SMTP 服务器.md",
+    "软件硬件/如何将有道云笔记导入到Obsibian.md",
+    "软件硬件/4个给网站添加暗黑模式的简单方法.md",
+    "人物故事/assets/公司上班这半年：从SEO变成站长/file-33.2139.jpg",
+    "软件硬件/assets/Smarty PHP模板引擎压缩HTML/file-109.4941.jpg",
+    "软件硬件/assets/Smarty PHP模板引擎输出压缩html代码/file-113.7480.jpg",
+    "软件硬件/assets/Smarty PHP模板引擎输出压缩html代码/file-129.5957.jpg",
+    "图说文字/assets/本命感悟/file-4.8027.jpg",
+    "favicon.png",
+    "未命名.canvas"
+  ]
+}

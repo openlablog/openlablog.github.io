@@ -1,0 +1,15 @@
+{
+  "font_folder": ".obsidian/fonts/",
+  "interface_font": [
+    ".obsidian/fonts/wqy-microhei.ttc"
+  ],
+  "text_font": [
+    ".obsidian/fonts/wqy-microhei.ttc"
+  ],
+  "monospace_font": [
+    ".obsidian/fonts/wqy-microhei.ttc"
+  ],
+  "extra_fonts": [],
+  "emoji_support": true,
+  "force_mode": false
+}
