@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ba7ce83ae9ba93a7",
+        "id": "e6710c1f052d652a",
         "type": "tabs",
         "children": [
           {
-            "id": "961ae5faea0ac4b6",
+            "id": "4a2ed27381343e60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "效率时间/【经验谈】1天=48小时？！.md",
+                "file": "效率时间/【效率-战胜拖延】番茄工作法  简单易行的时间管理方法.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "【经验谈】1天=48小时？！"
+              "title": "【效率-战胜拖延】番茄工作法  简单易行的时间管理方法"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "效率时间/【经验谈】1天=48小时？！.md",
+                "file": "file-46.8789.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,12 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "file-46.8789.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "index 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -219,54 +219,54 @@
       "nav-weight:Nav Weight: click to disable": false
     }
   },
-  "active": "961ae5faea0ac4b6",
+  "active": "4a2ed27381343e60",
   "lastOpenFiles": [
+    "index.md",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/log-472.md",
+    "assets/index/file-16.2900.jpg",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/log-471.md",
+    "assets/index",
+    "assets",
+    "file-46.8789.jpg",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/log-429.md",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/snapshot-1107c3f6-8f52-458c-a47c-fe9d9112923f-manifest.md",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/snapshot-1107c3f6-8f52-458c-a47c-fe9d9112923f-manifest-0.md",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/log-114.md",
+    "软件硬件/assets/Windows Server 使用 IIS 作为 SMTP 服务器/file-95.2881.jpg",
+    "软件硬件/assets/Windows Server 使用 IIS 作为 SMTP 服务器/file-7.1191.png",
+    "软件硬件/assets/Windows Server 使用 IIS 作为 SMTP 服务器/file-7.0068.png",
+    "软件硬件/assets/Windows Server 使用 IIS 作为 SMTP 服务器/file-5.5449.png",
+    "软件硬件/assets/Windows Server 使用 IIS 作为 SMTP 服务器/file-46.6699.jpg",
+    "软件硬件/assets/Windows Server 使用 IIS 作为 SMTP 服务器/file-4.5342.png",
+    "软件硬件/assets/Windows Server 使用 IIS 作为 SMTP 服务器/file-25.5293.png",
+    "软件硬件/assets/Windows Server 使用 IIS 作为 SMTP 服务器/file-19.9199.png",
+    "软件硬件/assets/Windows Server 使用 IIS 作为 SMTP 服务器",
+    "软件硬件/assets/Smarty PHP模板引擎压缩HTML",
+    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1，优化API 请求、SEO和GEO",
+    "软件硬件/assets",
+    "设计体验/assets/解读互联网产品布局的几种方法",
+    "设计体验/assets/產品設計靠邊，用戶體驗創新才是王道",
+    "设计体验/assets/打造成功的产品 – 以小为始，公听并观",
+    "设计体验/assets/兼顾UE与SEO的六种利器",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/snapshot-c448922b-cc26-4c92-908a-a844697a4fd5-manifest.md",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/snapshot-c448922b-cc26-4c92-908a-a844697a4fd5-manifest-0.md",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/log-46.md",
     "效率时间/【高效】提高工作效率三法.md",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/log-9.md",
+    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/log-3.md",
+    "效率时间/【经验谈】1天=48小时？！.md",
     "设计体验/十佳应用的故事(1) - 想法、产品定义与交互设计.md",
     "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/have.md",
     "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191/log-1.md",
-    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices/37a66165-cfa7-4b92-8680-bf43f957a191",
-    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1/devices",
-    "Plugin data/obsidian-custom-attachment-location/original-attachment-names-v1",
-    "Plugin data/obsidian-custom-attachment-location",
-    "Plugin data",
     "设计体验/不专业和表现的不专业，是两码事儿.md",
     "设计体验/10 个假装你很懂用户体验的方法.md",
-    "index.md",
     "软件硬件/针对 CloudFlare Workers + Hono 环境优化的 HTML 压缩器.md",
     "软件硬件/Byet 系列免费主机的网站如何删除链接中的?i=1，优化API 请求、SEO和GEO.md",
     "软件硬件/Smarty PHP模板引擎压缩HTML.md",
-    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1，优化API 请求、SEO和GEO",
-    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1，优化API 请求、SEO、GEO",
-    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1，优化SEO和GEO",
-    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1和优化SEO、GEO",
-    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1和优化SEO+GEO",
-    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1，优化API 请求、SEO和GEO/file-62.8477.jpg",
     "assets/Byet 系列免费主机的网站如何删除链接中的?i=1/file-50.0176.jpg.md",
-    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1/file-50.0176.jpg",
-    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1/file-63.0313.jpg",
-    "软件硬件/assets/Byet 系列免费主机的网站如何删除链接中的-i=1/file-63.0313 1.jpg",
-    "效率时间/【经验谈】1天=48小时？！.md",
     "图说文字/不吃药照样身体好.md",
     "图说文字/本命感悟.md",
     "软件硬件/JS正则表达式限制输入数量和金额.md",
-    "软件硬件/JS字符串匹配手机号码的正则表达式.md",
-    "软件硬件/CentOS 6.X 安装DDoS-Deflate防御ddos攻击.md",
-    "软件硬件/CentOS 6.X 配置防御ddos攻击（轻量级）.md",
-    "软件硬件/Apache重定向.htaccess无域名通用配置：HTTP跳转HTTPS、HTTPS跳转HTTP、跳转WWW，不跳WWW.md",
-    "软件硬件/在安卓Android手机上安装Cloudflare Tunnel实现免费内网穿透.md",
-    "软件硬件/yum安装mod_limitipconn模块限制客户端多线程下载.md",
-    "软件硬件/PHP 获取当前网址协议（各种服务器通用）.md",
-    "软件硬件/php获取网页301,302后的真实地址,支持多重跳转.md",
-    "软件硬件/Windows Server 使用 IIS 作为 SMTP 服务器.md",
-    "软件硬件/如何将有道云笔记导入到Obsibian.md",
-    "软件硬件/4个给网站添加暗黑模式的简单方法.md",
-    "人物故事/assets/公司上班这半年：从SEO变成站长/file-33.2139.jpg",
-    "软件硬件/assets/Smarty PHP模板引擎压缩HTML/file-109.4941.jpg",
-    "软件硬件/assets/Smarty PHP模板引擎输出压缩html代码/file-113.7480.jpg",
-    "软件硬件/assets/Smarty PHP模板引擎输出压缩html代码/file-129.5957.jpg",
-    "图说文字/assets/本命感悟/file-4.8027.jpg",
-    "favicon.png",
     "未命名.canvas"
   ]
 }
